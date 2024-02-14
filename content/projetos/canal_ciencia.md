@@ -1,6 +1,6 @@
 ---
 author: CEDIS
-title: "Canal_ciencia"
+title: "Canal Ciência"
 date: 2024-02-14T17:08:50-03:00
 weight: 8
 language: pt
