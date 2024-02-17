@@ -73,15 +73,15 @@ languages:
           weight: 20
         - identifier: projetos
           name: Projetos
-          url: /categories/projetos/
+          url: /categories/project/
           weight: 30
         - identifier: dropdown
           pre: complexdropdown
           name: Produções
           weight: 40
-        - identifier: contact
-          name: Contato
-          url: /contact/
+        - identifier: oportunity
+          name: Oportunidades
+          url: /oportunities/
           weight: 50
       cedis:
         - identifier: areas
@@ -97,12 +97,13 @@ languages:
           url: /about/
           weight: 20
         - identifier: historia
+          pre: stars
           name: História
           post: "Nossa trajetória e conquistas"
           url: /about/
           weight: 30
         - identifier: intranet
-          pre: stars
+          pre: piechart
           name: Intranet
           url: https://unbbr.sharepoint.com/sites/CEDIS
           post: "Acesso restrito"
@@ -233,7 +234,7 @@ languages:
       main:
         - identifier: cedis
           pre: complexdropdown
-          name: Learn more
+          name: About
           weight: 10
         - identifier: equipe
           pre: dropdown
@@ -242,15 +243,15 @@ languages:
           weight: 20
         - identifier: projetos
           name: Projects
-          url: /categories/projects/
+          url: /categories/project/
           weight: 30
         - identifier: dropdown
           pre: complexdropdown
           name: Productions
           weight: 40
-        - identifier: contact
-          name: Contact
-          url: /contact/
+        - identifier: oportunity
+          name: Oportunities
+          url: /oportunities/
           weight: 50
       cedis:
         - identifier: areas
@@ -266,12 +267,13 @@ languages:
           url: /about/
           weight: 20
         - identifier: historia
+          pre: stars
           name: History
           post: "Our journey and achievements"
           url: /about/
           weight: 30
         - identifier: intranet
-          pre: stars
+          pre: piechart
           name: Intranet
           url: https://unbbr.sharepoint.com/sites/CEDIS
           post: "Restricted access"

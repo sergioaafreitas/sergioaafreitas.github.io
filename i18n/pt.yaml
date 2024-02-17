@@ -5,6 +5,16 @@ wordCount:
 gamification: "Gamificação"
 researcher: "Pesquisador"
 learning: "Learning"
+machine_learning: "Aprendizado de Máquina"
+
+undergraduate: "Graduação"
 
 # Categories
 knowledge_areas: "Áreas de atuação"
+project: "Projeto"
+people: "Pessoal"
+hpc: "Computação de Alto Desempenho"
+
+# Projects
+dfcris: "Projeto DFCris"
+project_cc: "Projeto Canal Ciência"
