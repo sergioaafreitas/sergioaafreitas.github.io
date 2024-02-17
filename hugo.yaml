@@ -6,7 +6,7 @@ languages:
   # PORTUGUÊS
     LanguageName: "> PT"
     languageCode: "pt"
-    title: CEDIS PT
+    title: CEDIS
     weight: 1
     params:
       color: blue
@@ -174,8 +174,9 @@ languages:
 
   en:
   # ENGLISH
+    #baseURL: '/en/'
     LanguageName: "> EN"
-    title: CEDIS EN
+    title: CEDIS
     weight: 2
     params:
       color: blue
@@ -196,7 +197,7 @@ languages:
           - text: "In conducting our research, we have worked in partnership with other entities, organizations, and research laboratories."
         links:
           - text: "Meet our partners"
-            url: "/parceiros/"
+            url: "/en/parceiros/"
         logos:
           - identifier: "IBICT"
             image: "images/global/ibict.svg"
