@@ -7,7 +7,8 @@ featured_image: ../assets/images/featured/Ricardo_Ajax.jpg
 summary: Professor da Universidade de Brasília (UnB), atua no curso de graduação em Engenharia de Software. 
 authorimage: ../assets/images/global/author.webp
 categories: Pessoal
-tags: [ "Pesquisador" ]
+tags: 
+- researcher
 ---
 ## Perfil Acadêmico e Profissional
 - Posição Atual: Professor da [Universidade de Brasília](https://www.unb.br/) (UnB), atuando no curso de graduação em [Engenharia de Software](http://software.unb.br/). 

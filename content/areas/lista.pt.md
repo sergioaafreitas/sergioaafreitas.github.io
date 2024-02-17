@@ -7,7 +7,8 @@ language: pt
 featured_image: ../assets/images/featured/CEDIS.png
 summary: Desenvolvimento e Engenharia de Software; Metodologias e Abordagens de Desenvolvimento; Tecnologias Emergentes e Inovação; Aspectos Humanos e Gerenciais; Educação e Aprendizagem; Pesquisa e Desenvolvimento em Produtos e Soluções de Software. Conheça mais.
 authorimage: ../assets/images/global/author.webp
-categories: Áreas
+categories:
+- knowledge_areas
 tags: [  ]
 ---
 **Desenvolvimento e Engenharia de Software**
@@ -32,9 +33,9 @@ tags: [  ]
 - Aspectos Humanos da Cybersegurança
 
 **Educação e Aprendizagem**
-- [Learning Analytics e gestão educacional](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/learning-analytics-e-gest%C3%A3o-educacional-baseada-em-indicadores)
+- [Learning Analytics e gestão educacional](/areas/learning_analytics/)
 - [Metodologias ativas no Ensino Superior e Ciência da Aprendizagem](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/metodologias-ativas-no-ensino-superior)
-- [Gamificação](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/gamifica%C3%A7%C3%A3o)
+- [Gamificação](/areas/gamificação/)
 
 **Pesquisa e Desenvolvimento em Produtos e Soluções de Software**
 - Desenvolvimento, Pesquisa e Inovação em Produtos e Soluções de Software

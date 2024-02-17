@@ -8,7 +8,8 @@ summary: Professor Adjunto da Universidade de Brasília (UnB), atua no curso de 
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
 authorimage: ../assets/images/global/author.webp
 categories: Pessoal
-tags: [ "Pesquisador" ] 
+tags: 
+- researcher
 ---
 ## Perfil Acadêmico e Profissional
 - Posição Atual: Professor Adjunto da [Universidade de Brasília](https://www.unb.br/) (UnB), atuando no curso de graduação em [Engenharia de Software](http://software.unb.br/) e no [Programa de Pós-Graduação em Computação Aplicada](https://ppca.unb.br/). 

@@ -1,0 +1,10 @@
+wordCount:
+  other: "{{ .WordCount }} words"
+
+# TAGS
+gamification: "Gamification"
+researcher: "Researcher"
+learning: "Learning"
+
+# Categories
+knowledge_areas: "Knowledge Areas"
