@@ -28,7 +28,8 @@ tags:
 - Mestrado em Computação - Universidade Federal do Rio Grande do Sul (UFRGS), Brasil (1991-1993).
 - Graduação em Engenharia Elétrica (ênfase eletrônica) - Universidade Federal de Uberlândia (UFU), Brasil (1985-1990)​​.
 ## Áreas de Atuação e Pesquisa
-- Linhas de Pesquisa: [Processamento de Linguagem Natural](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/intelig%C3%AAncia-artificial-e-ci%C3%AAncia-da-aprendizagem), [Inteligência Artificial](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/intelig%C3%AAncia-artificial-e-ci%C3%AAncia-da-aprendizagem), [Metodologias Ativas de Aprendizagem na Engenharia e na Computação](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/metodologias-ativas-no-ensino-superior), [](https://sites.google.com/d/1MFoXA_IlkkcwR4n3s2yHYl3qwUoJL15c/p/1eAt0Ywj-arMKEvtCBmSJj7rQzRI58czL/edit)[Gamificação](/areas/gamificação/), [Learning Analytics](/areas/learning_analytics/) e Segurança Computacional​​. 
+- Linhas de Pesquisa: [Processamento de Linguagem Natural](/areas/ai_pln), [Inteligência Artificial](/areas/ai_pln), [Metodologias Ativas de Aprendizagem na Engenharia e na Computação](/areas/active_learning), [Gamificação](/areas/gamification/), [Learning Analytics](/areas/learning_analytics/) e Segurança Computacional​​. 
+
 - Especialidades: Metodologia e Técnicas da Computação, Tecnologia Educacional​​.
 ## Contribuições e Reconhecimentos
 - Prêmios: Múltiplas vezes homenageado e patrono de turmas na UnB e UFES​​.

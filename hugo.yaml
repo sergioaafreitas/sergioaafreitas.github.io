@@ -94,13 +94,13 @@ languages:
           pre: piechart
           name: Infraestrutura
           post: "Equipamentos e instalações"
-          url: /about/
+          url: /infra/
           weight: 20
         - identifier: historia
           pre: stars
           name: História
           post: "Nossa trajetória e conquistas"
-          url: /about/
+          url: /history/
           weight: 30
         - identifier: intranet
           pre: piechart
@@ -264,13 +264,13 @@ languages:
           pre: piechart
           name: Infrastructure
           post: "Equipment and facilities"
-          url: /about/
+          url: /infra/
           weight: 20
         - identifier: historia
           pre: stars
           name: History
           post: "Our journey and achievements"
-          url: /about/
+          url: /history/
           weight: 30
         - identifier: intranet
           pre: piechart

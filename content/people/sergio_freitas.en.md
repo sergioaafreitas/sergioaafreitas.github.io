@@ -28,7 +28,7 @@ tags:
 - Master's in Computing - Federal University of Rio Grande do Sul (UFRGS), Brazil (1991-1993).
 - Bachelor's in Electrical Engineering (emphasis in electronics) - Federal University of Uberlândia (UFU), Brazil (1985-1990).
 ## Fields of Work and Research
-- Research Lines: [Natural Language Processing](https://www.cedis.unb.br/o-cedis/research-areas/artificial-intelligence-and-learning-science), [Artificial Intelligence](https://www.cedis.unb.br/o-cedis/research-areas/artificial-intelligence-and-learning-science), [Active Learning Methodologies in Engineering and Computing](https://www.cedis.unb.br/o-cedis/research-areas/active-methodologies-in-higher-education), [Gamification](/areas/gamificação/), [Learning Analytics](/areas/learning_analytics/) and Computer Security.
+- Research Lines: [Natural Language Processing](/en/areas/ai_pln), [Artificial Intelligence](/en/areas/ai_pln), [Active Learning Methodologies in Engineering and Computing](/en/areas/active_learning), [Gamification](/en/areas/gamification/), [Learning Analytics](/en/areas/learning_analytics/) and Computer Security.
 - Specialties: Methodology and Techniques of Computing, Educational Technology.
 ## Contributions and Acknowledgments
 - Awards: Multiple times honored and patron of classes at UnB and UFES.
