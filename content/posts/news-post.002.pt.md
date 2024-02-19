@@ -26,6 +26,8 @@ Os professores homenageados são Cristiane Soares Ramos e Sergio Antônio Andrad
 
 Esta honraria é um reflexo do impacto do livro "Indicadores de Aprendizagem", uma obra coletiva desses professores, que está disponível no portal da UnB [aqui](https://livros.unb.br/index.php/portal/catalog/book/442). Este livro simboliza o empenho e a dedicação dos professores em desenvolver métodos inovadores de ensino, adaptados às necessidades contemporâneas do setor educacional.
 
+[<img src="https://livros.unb.br/public/presses/1/submission_442_504_coverImage_pt_BR_t.png" width="200" height="300">](https://livros.unb.br/index.php/portal/catalog/book/442)
+
 A premiação ressalta a relevância da inovação e da criatividade no ensino superior, especialmente em tempos de transformações rápidas e novos desafios educacionais. O enfoque colaborativo e interdisciplinar adotado pelos professores do Programa A3M e do CEDIS demonstra como inovações pedagógicas podem ser eficazmente implementadas para aprimorar os indicadores de aprendizagem.
 
 Esse reconhecimento não apenas celebra o sucesso dos professores do CEDIS, mas também serve como inspiração para educadores e instituições acadêmicas globalmente, reforçando a importância de estratégias educacionais que sejam inclusivas, adaptáveis e orientadas para o futuro.

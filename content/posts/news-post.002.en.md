@@ -26,6 +26,8 @@ The honored professors are Cristiane Soares Ramos and Sergio Antônio Andrade de
 
 This honor reflects the impact of the book "Learning Indicators," a collective work by these professors, available on the UnB portal [here](https://livros.unb.br/index.php/portal/catalog/book/442). This book symbolizes the professors' commitment and dedication to developing innovative teaching methods, tailored to the contemporary needs of the education sector.
 
+[<img src="https://livros.unb.br/public/presses/1/submission_442_504_coverImage_pt_BR_t.png" width="200" height="300">](https://livros.unb.br/index.php/portal/catalog/book/442)
+
 The award highlights the importance of innovation and creativity in higher education, especially in times of rapid changes and new educational challenges. The collaborative and interdisciplinary approach adopted by the professors of the A3M Program and CEDIS demonstrates how pedagogical innovations can be effectively implemented to enhance learning indicators.
 
 This recognition not only celebrates the success of the CEDIS professors but also serves as an inspiration to educators and academic institutions globally, reinforcing the significance of educational strategies that are inclusive, adaptable, and future-oriented.
