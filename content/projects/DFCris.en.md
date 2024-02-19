@@ -11,6 +11,8 @@ categories:
 - project
 tags: 
 - machine_learning
+- nlp
+- ai
 - dfcris
 ---
 ## Overview

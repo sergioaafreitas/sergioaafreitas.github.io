@@ -9,8 +9,10 @@ summary: Projeto de pesquisa em parceria com o IBICT e financiado pela FAP/DF.
 authorimage: ../assets/images/global/author.webp
 categories: 
 - project
-tags: 
+tags:
 - machine_learning
+- nlp
+- ai
 - dfcris
 ---
 

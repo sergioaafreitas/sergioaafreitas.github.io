@@ -9,9 +9,11 @@ summary: Graduando em Engenharia de Software, Universidade de Brasília
 authorimage: ../assets/images/global/author.webp
 categories: 
 - people
-tags: 
 - undergraduate
+- sergio_freitas
+tags: 
 - dfcris
+- scientific_initiation
 - machine_learning
 ---
 ## Perfil Acadêmico e Profissional

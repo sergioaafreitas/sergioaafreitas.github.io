@@ -13,6 +13,8 @@ tags:
 - researcher
 - gamification
 - learning
+- ai
+- nlp
 - machine_learning
 - dfcris
 - project_cc
@@ -37,6 +39,10 @@ tags:
 ## Projetos Atuais
 - Projetos de Pesquisa: Focado em gamificação e sistemas de informação no contexto da pesquisa científica, transformação digital de serviços públicos​​ e utilização de técnicas de Inteligência Artificial.
 - Projetos de Ensino: Implementação de gamificação nas disciplinas de Interação Humano Computador e Desenvolvimento de Software​​.
+
+## Orientações
+[Clique para ver](/categories/sergio_freitas)
+
 ## Contato
 - Endereço Profissional:  
     Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.

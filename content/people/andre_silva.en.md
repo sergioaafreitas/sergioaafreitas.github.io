@@ -9,9 +9,11 @@ summary: Undergraduate in Software Engineering, University of Brasília
 authorimage: ../assets/images/global/author.webp
 categories: 
 - people
-tags: 
 - undergraduate
+- sergio_freitas
+tags: 
 - dfcris
+- scientific_initiation
 - machine_learning
 ---
 ## Academic and Professional Profile

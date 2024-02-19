@@ -13,6 +13,8 @@ tags:
 - researcher
 - gamification
 - learning
+- ai
+- nlp
 - machine_learning
 - dfcris
 - project_cc
@@ -36,6 +38,10 @@ tags:
 ## Current Projects
 - Research Projects: Focused on gamification and information systems in the context of scientific research, digital transformation of public services, and the use of Artificial Intelligence techniques.
 - Teaching Projects: Implementation of gamification in Human-Computer Interaction and Software Development courses.
+
+## Guidance
+[Click to view](/en/categories/sergio_freitas)
+
 ## Contact
 - Professional Address:  
     University of Brasília, UnB Gama Campus, Brasília - DF, Brazil.

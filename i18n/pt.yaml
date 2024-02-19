@@ -1,18 +1,19 @@
 wordCount:
   other: "{{ .WordCount }} palavras"
 
+#TERMOS (NÃO APAGAR)
+next: "Próximo"
+previous: "Anterior"
+first: "Primeiro"
+last: "Último"
+read: "leitura"
+News: "Notícias"
+
 # TAGS
+# Áreas de atuação
 gamification: "Gamificação"
-researcher: "Pesquisador"
 learning: "Learning"
 machine_learning: "Aprendizado de Máquina"
-
-undergraduate: "Graduação"
-
-# Categories
-knowledge_areas: "Áreas de atuação"
-project: "Projeto"
-people: "Pessoal"
 hpc: "Computação de Alto Desempenho"
 software_architecture: "Arquitetura de Software"
 software_requirements: "Requisitos de Software"
@@ -26,6 +27,34 @@ soft_skills: "Habilidades Sociais"
 active_learning: "Aprendizagem Ativa"
 education: "Educação"
 
-# Projects
+#Tipos de participação
+researcher: "Pesquisador"
+collaborator: "Colaborador"
+visitor:  "Visitante"
+phd_candidate: "Doutorando"
+master_student: "Mestrando"
+specialization: "Especialização"
+scientific_initiation: "Iniciação Científica"
+tcc: "TCC"
+monitor: "Monitor"
+inactive: "Inativo"
+
+
+# Projetos
 dfcris: "Projeto DFCris"
 project_cc: "Projeto Canal Ciência"
+closed: "Concluído"
+
+# CATEGORIAS
+knowledge_areas: "Áreas de atuação"
+project: "Projeto"
+people: "Pessoal"
+undergraduate: "Graduação"
+graduate: "Pós-Graduação"
+sergio_freitas: "Sergio Freitas (Orientador)"
+andre_lanna: "André Lanna (Orientador)"
+george_marsicano: "George Marsicano (Orientador)"
+fabiana_mendes: "Fabiana Mendes (Orientador)"
+cristiane_ramos: "Cristiane Ramos (Orientador)"
+ricardos_ajax: "Ricardo Ajax (Orientador)"
+daniel_sundfeld: "Daniel Sundfeld (Orientador)"

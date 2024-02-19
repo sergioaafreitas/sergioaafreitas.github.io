@@ -1,18 +1,19 @@
 wordCount:
   other: "{{ .WordCount }} words"
 
+#TERMOS
+next: "Next"
+previous: "Prev"
+first: "First"
+last: "Last"
+read: "read"
+News: "News"
+
 # TAGS
+# Knowledge Areas
 gamification: "Gamification"
-researcher: "Researcher"
 learning: "Learning"
 machine_learning: "Machine Learning"
-
-undergraduate: "Undergraduate"
-
-# Categories
-knowledge_areas: "Knowledge Areas"
-project: "Project"
-people: "People"
 hpc: "High Performance Computing"
 software_architecture: "Software Architecture"
 software_requirements: "Software Requirements"
@@ -26,6 +27,34 @@ soft_skills: "Soft Skills"
 active_learning: "Active Learning"
 education: "Education"
 
+# Participation Types
+researcher: "Researcher"
+collaborator: "Collaborator"
+visitor:  "Visitor"
+phd_candidate: "PhD Student"
+master_student: "Master Student"
+specialization: "Specialization Student"
+scientific_initiation: "Scientific Initiation"
+tcc: "TCC"
+monitor: "Course Assistant"
+inactive: "Inactive"
+
+
 # Projects
 dfcris: "Project DFCris"
 project_cc: "Project Canal Ciência"
+closed: "Closed"
+
+# Categories
+knowledge_areas: "Knowledge Areas"
+project: "Project"
+people: "People"
+undergraduate: "Undergraduate"
+graduate: "Graduate"
+sergio_freitas: "Sergio Freitas (Advisor)"
+andre_lanna: "André Lanna (Advisor)"
+george_marsicano: "George Marsicano (Advisor)"
+fabiana_mendes: "Fabiana Mendes (Advisor)"
+cristiane_ramos: "Cristiane Ramos (Advisor)"
+ricardos_ajax: "Ricardo Ajax (Advisor)"
+daniel_sundfeld: "Daniel Sundfeld (Advisor)"
