@@ -30,23 +30,29 @@ tags:
 - Doutorado em Engenharia Elétrica - Universidade Federal do Espírito Santo (UFES), Brasil (2003-2005).
 - Mestrado em Computação - Universidade Federal do Rio Grande do Sul (UFRGS), Brasil (1991-1993).
 - Graduação em Engenharia Elétrica (ênfase eletrônica) - Universidade Federal de Uberlândia (UFU), Brasil (1985-1990)​​.
-## Áreas de Atuação e Pesquisa
-- Linhas de Pesquisa: {{< link-interno "/areas/ai_pln" "Processamento de Linguagem Natural" >}}, {{< link-interno "/areas/ai_pln" "Inteligência Artificial" >}}, {{< link-interno "/areas/active_learning" "Metodologias Ativas de Aprendizagem na Engenharia e na Computação" >}}, {{< link-interno "/areas/gamification/" "Gamificação" >}}, {{< link-interno "/areas/learning_analytics/" "Learning Analytics" >}} e Segurança Computacional​​. 
 
-- Especialidades: Metodologia e Técnicas da Computação, Tecnologia Educacional​​.
+## Áreas de Pesquisa
+{{< postsByCategories caput="" categories="knowledge_areas,sergio_freitas" >}}
+
 ## Contribuições e Reconhecimentos
 - Prêmios: Múltiplas vezes homenageado e patrono de turmas na UnB e UFES​​.
 - Publicações: Autor e coautor de diversos artigos científicos e livros, com reconhecimento em plataformas como Web of Science e SCOPUS​​.
+
 ## Projetos Atuais
-- Projetos de Pesquisa: Focado em gamificação e sistemas de informação no contexto da pesquisa científica, transformação digital de serviços públicos​​ e utilização de técnicas de Inteligência Artificial.
-- Projetos de Ensino: Implementação de gamificação nas disciplinas de Interação Humano Computador e Desenvolvimento de Software​​.
+{{< postsByCategories categories="project,sergio_freitas" >}}
 
 ## Orientações
-{{< link-interno "/categories/sergio_freitas" "Clique para ver" >}}
+
+{{< postsByCategories caput="### Doutorado" categories="phd_candidate,sergio_freitas" >}}
+{{< postsByCategories caput="### Mestrado" categories="master_student,sergio_freitas" >}}
+{{< postsByCategories caput="### Especialização" categories="specialization,sergio_freitas" >}}
+{{< postsByCategories caput="### Iniciação Científica" categories="scientific_initiation,sergio_freitas" >}}
+{{< postsByCategories caput="### TCC" categories="tcc,sergio_freitas" >}}
+
 
 ## Contato
 - Endereço Profissional:  
     Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.
-- Email: sergiofreitas@unb.br
+- Email: [sergiofreitas@unb.br](mailto:sergiofreitas@unb.br)
 - Lattes: {{< link-interno "http://lattes.cnpq.br/0395549254894676" "CV Lattes" >}}
 - Orcid ID: {{< link-interno "https://orcid.org/0000-0003-3996-4985" "Orcid Profile​" >}}

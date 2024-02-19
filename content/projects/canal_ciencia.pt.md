@@ -9,6 +9,8 @@ summary: Projeto de pesquisa em parceria com o IBICT e financiado pela FINATEC, 
 authorimage: ../assets/images/global/author.webp
 categories: 
 - project
+- sergio_freitas
+- cristiane_ramos
 tags: 
 - gamification
 - project_cc

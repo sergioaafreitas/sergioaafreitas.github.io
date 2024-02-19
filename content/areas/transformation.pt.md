@@ -9,6 +9,8 @@ summary: Transformação Digital é a aplicação de tecnologias digitais para m
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- george_marsicano
+- ricardo_ajax
 tags: 
 - digital_transformation
 ---

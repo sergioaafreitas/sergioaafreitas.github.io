@@ -24,8 +24,9 @@ tags:
 - Professor Adjunto na Universidade de Brasília desde 2011.
 - Disciplinas Ministradas: Engenharia de Requisitos, Verificação Validação e Testes de Software, Desenho de Software, Introdução a Ciência da Computação, Desenvolvimento Avançado de Software, Orientação a Objetos, Técnicas de Programação em Plataformas Emergentes​​.
 ## Linhas de Pesquisa
-- Principais Linhas de Pesquisa: Arquitetura de Software, Linhas de Produto de Software, Reuso de Software​​.
+{{< postsByCategories caput="" categories="knowledge_areas,andre_lanna" >}}
 ## Projetos de Pesquisa
+{{< postsByCategories categories="project,andre_lanna" >}}
 - Laboratório Fábrica de Software: Projeto de pesquisa e desenvolvimento iniciado em 2018 na Universidade de Brasília.
 ## Áreas de Atuação Específicas
 - Especialidades: Engenharia de Software, Linguagens de Programação, Sistemas de Informação​​.

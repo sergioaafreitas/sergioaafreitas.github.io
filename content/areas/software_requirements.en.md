@@ -9,6 +9,7 @@ summary: The field of Software Requirements is fundamental in software engineeri
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- george_marsicano
 tags: 
 - software_requirements
 ---

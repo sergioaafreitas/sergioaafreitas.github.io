@@ -9,6 +9,7 @@ summary: High-Performance Computing and Cloud Computing is a dynamic and essenti
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- daniel_sundfeld
 tags: 
 - hpc
 ---

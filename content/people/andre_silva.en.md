@@ -2,7 +2,7 @@
 author: CEDIS
 title: "André Corrêa da Silva"
 date: 2024-02-17T00:50:20-03:00
-weight: 32
+weight: 44
 language: en
 #featured_image: ../assets/images/featured/Andre_lanna.jpg
 summary: Undergraduate in Software Engineering, University of Brasília
@@ -10,6 +10,7 @@ authorimage: ../assets/images/global/author.webp
 categories: 
 - people
 - undergraduate
+- scientific_initiation
 - sergio_freitas
 tags: 
 - dfcris

@@ -9,6 +9,7 @@ summary: A área de Verificação, Validação e Testes é uma disciplina críti
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- cristiane_ramos
 tags: 
 - verification_validation_testing
 ---

@@ -9,6 +9,7 @@ summary: Artificial Intelligence (AI) is a branch of computer science that seeks
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- sergio_freitas
 tags: 
 - ai
 - nlp

@@ -30,23 +30,26 @@ tags:
 - PhD in Electrical Engineering - Federal University of Espírito Santo (UFES), Brazil (2003-2005).
 - Master's in Computing - Federal University of Rio Grande do Sul (UFRGS), Brazil (1991-1993).
 - Bachelor's in Electrical Engineering (emphasis in electronics) - Federal University of Uberlândia (UFU), Brazil (1985-1990).
-## Fields of Work and Research
-- Research Lines: {{< link-interno "/areas/ai_pln" "Natural Language Processing" >}}, {{< link-interno "/areas/ai_pln" "Artificial Intelligence" >}}, {{< link-interno "/areas/active_learning" "Active Learning Methodologies in Engineering and Computing" >}}, {{< link-interno "/areas/gamification/" "Gamification" >}}, {{< link-interno "/areas/learning_analytics/" "Learning Analytics" >}} and Computer Security.
 
-- Specialties: Methodology and Techniques of Computing, Educational Technology.
+## Research Areas
+{{< postsByCategories caput="" categories="knowledge_areas,sergio_freitas" >}}
+
 ## Contributions and Acknowledgments
 - Awards: Multiple times honored and patron of classes at UnB and UFES.
 - Publications: Author and co-author of several scientific articles and books, recognized on platforms such as Web of Science and SCOPUS.
 ## Current Projects
-- Research Projects: Focused on gamification and information systems in the context of scientific research, digital transformation of public services, and the use of Artificial Intelligence techniques.
-- Teaching Projects: Implementation of gamification in Human-Computer Interaction and Software Development courses.
+{{< postsByCategories categories="project,sergio_freitas" >}}
 
 ## Guidance
-{{< link-interno "/categories/sergio_freitas" "Click to view" >}}
+{{< postsByCategories caput="### PhD" categories="phd_candidate,sergio_freitas" >}}
+{{< postsByCategories caput="### Master's degree" categories="master_student,sergio_freitas" >}}
+{{< postsByCategories caput="### Postgraduate Specialization" categories="specialization,sergio_freitas" >}}
+{{< postsByCategories caput="### Undergraduate Research" categories="scientific_initiation,sergio_freitas" >}}
+{{< postsByCategories caput="### Bachelor's Thesis" categories="tcc,sergio_freitas" >}}
 
 ## Contact
 - Professional Address:  
     University of Brasília, UnB Gama Campus, Brasília - DF, Brazil.
-- Email: sergiofreitas@unb.br
+- Email: [sergiofreitas@unb.br](mailto:sergiofreitas@unb.br)
 - Lattes: {{< link-interno "http://lattes.cnpq.br/0395549254894676" "CV Lattes" >}}
 - Orcid ID: {{< link-interno "https://orcid.org/0000-0003-3996-4985" "Orcid Profile" >}}

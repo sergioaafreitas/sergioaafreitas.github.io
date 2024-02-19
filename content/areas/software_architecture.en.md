@@ -9,6 +9,7 @@ summary: Software Architecture is a fundamental field in systems engineering inv
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- andre_lanna
 tags: 
 - software_architecture
 ---

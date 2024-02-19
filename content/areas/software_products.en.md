@@ -9,6 +9,7 @@ summary: Software Product Line Engineering is a specialized area in software eng
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- andre_lanna
 tags: 
 - software_product_line
 ---

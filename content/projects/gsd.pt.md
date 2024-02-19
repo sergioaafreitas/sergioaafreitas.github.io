@@ -9,6 +9,7 @@ summary: Esse projeto tem como objetivo chamar a atenção para a necessidade de
 authorimage: ../assets/images/global/author.webp
 categories: 
 - project
+- fabiana_mendes
 tags: 
 - green_software
 - project_gsd

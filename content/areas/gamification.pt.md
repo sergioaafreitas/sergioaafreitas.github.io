@@ -9,6 +9,9 @@ summary: A gamificação é um processo que utiliza elementos, técnicas e mecâ
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- sergio_freitas
+- cristiane_ramos
+- george_marsicano
 tags: 
 - gamification
 ---

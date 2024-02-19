@@ -9,6 +9,7 @@ summary: Computação de Alto Desempenho e Computação em Nuvem é um campo din
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- daniel_sundfeld
 tags: 
 - hpc
 ---

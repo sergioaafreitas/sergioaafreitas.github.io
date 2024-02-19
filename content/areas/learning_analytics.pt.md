@@ -9,6 +9,8 @@ summary: Área interdisciplinar que une análise de dados, ciência da computaç
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- sergio_freitas
+- cristiane_ramos
 tags: 
 - learning
 ---

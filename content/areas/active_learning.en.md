@@ -9,6 +9,10 @@ summary: Active learning methodologies in higher education have been gaining inc
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- sergio_freitas
+- cristiane_ramos
+- george_marsicano
+- ricardo_ajax
 tags: 
 - active_learning
 - education

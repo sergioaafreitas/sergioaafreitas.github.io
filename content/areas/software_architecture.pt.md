@@ -9,6 +9,7 @@ summary:  Arquitetura de Software é um campo fundamental na engenharia de siste
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- andre_lanna
 tags: 
 - software_architecture
 ---

@@ -21,6 +21,8 @@ tags:
 - Doutorado em Filosofia (Ph.D.) - Universidade de Oulu, Finlândia (2016-2021).
 - Mestrado em Ciência da Computação - Universidade Federal de Goiás (UFG), Brasil (2008-2010).
 - Graduação em Ciência da Computação - Universidade Federal de Goiás (UFG), Brasil (2004-2008)​​.
+## Linhas de pesquisa
+{{< postsByCategories caput="" categories="knowledge_areas,fabiana_mendes" >}}
 ## Formação Complementar
 - Formação de Gestores e Tutores - Universidade Federal de Mato Grosso (UFMT), Brasil (2011).
 - Implementadores MR-MPS.BR e Introdução ao MPS.BR - Sociedade para Promoção da Excelência do Software Brasileiro (SOFTEX), Brasil (2006-2007)​​.
@@ -28,6 +30,7 @@ tags:
 - Vínculo Institucional: Universidade de Brasília (UnB) desde 2011.
 - Disciplinas Ministradas: Engenharia de Software Experimental, Estruturas Matemáticas para Computação, Fundamentos de Qualidade de Software, Melhoria de Processos de Software, entre outras​​.
 ## Projetos de Pesquisa
+{{< postsByCategories categories="project,fabiana_mendes" >}}
 - Fatores humanos na segurança cibernética (2022-Atual).
 - Criação e avaliação da usabilidade de um aplicativo sobre Doença de Parkinson (2020-Atual).
 - Esses projetos exploram temas como segurança cibernética, saúde digital e usabilidade​​.

@@ -9,6 +9,7 @@ summary: A área de Trabalho em Equipe e Soft Skills é um campo interdisciplina
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- george_marsicano
 tags: 
 - teamwork
 - soft_skills

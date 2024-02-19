@@ -9,6 +9,7 @@ summary: The area of Green Software Development, or Sustainable Software Develop
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- fabiana_mendes
 tags: 
 - green_software
 ---

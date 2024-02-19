@@ -9,6 +9,7 @@ summary: A Inteligência Artificial (IA) é um ramo da ciência da computação 
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- sergio_freitas
 tags: 
 - ai
 - nlp

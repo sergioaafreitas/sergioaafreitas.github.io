@@ -24,8 +24,9 @@ tags:
 - Associate Professor at the University of Brasília since 2011.
 - Courses Taught: Requirements Engineering, Verification Validation and Software Testing, Software Design, Introduction to Computer Science, Advanced Software Development, Object Orientation, Programming Techniques on Emerging Platforms.
 ## Research Lines
-- Main Research Lines: Software Architecture, Software Product Lines, Software Reuse.
+{{< postsByCategories caput="" categories="knowledge_areas,andre_lanna" >}}
 ## Research Projects
+{{< postsByCategories categories="project,andre_lanna" >}}
 - Software Factory Laboratory: Research and development project initiated in 2018 at the University of Brasília.
 ## Specific Fields of Work
 - Specialties: Software Engineering, Programming Languages, Information Systems.

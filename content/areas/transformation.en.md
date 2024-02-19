@@ -9,6 +9,8 @@ summary: Digital Transformation is the application of digital technologies to ch
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- george_marsicano
+- ricardo_ajax
 tags: 
 - digital_transformation
 ---

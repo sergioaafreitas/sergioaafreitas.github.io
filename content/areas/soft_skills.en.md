@@ -9,6 +9,7 @@ summary: The area of Teamwork and Soft Skills is an interdisciplinary field in p
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- george_marsicano
 tags: 
 - teamwork
 - soft_skills

@@ -21,14 +21,16 @@ tags:
 ## Academic Background
 - Master's in Knowledge Management and Information Technology - Catholic University of Brasília (2002-2004).
 - Bachelor's in Computer Science - Catholic University of Brasília (1993-1996).
+## Research Lines
+{{< postsByCategories caput="" categories="knowledge_areas,cristiane_ramos" >}}
 ## Additional Training
 - Various complementary training, including Scientific Methodology, Content Development for Distance Education, Neuroscience in Teaching, among others.
 ## Professional Experience and Teaching
 - Professor at the University of Brasília: Since 2010, teaching subjects such as Fundamentals of Software Quality and Introduction to Engineering.
 - Previous experience: Professor at the Integrated Faculties of UniCESP (2005-2007), teaching Quality Management.
-## Research Lines
-- Main Research Lines: Software Quality, [Software Engineering Education](/en/area/learning/), Digital Government.
+
 ## Research Projects
+{{< postsByCategories categories="project,cristiane_ramos" >}}
 - Automation of Public Services in the context of Service Transformation: Research and development project in partnership between UnB and the Ministry of Planning (2017-2020).
 - Software Metrics to support Management in Companies (2002-2005).
 ## Specific Areas of Expertise

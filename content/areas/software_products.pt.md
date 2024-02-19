@@ -9,6 +9,7 @@ summary: A Engenharia de Linhas de Produto de Software é uma área especializad
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- andre_lanna
 tags: 
 - software_product_line
 ---

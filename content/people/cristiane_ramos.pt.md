@@ -21,14 +21,16 @@ tags:
 ## Formação Acadêmica
 - Mestrado em Gestão do Conhecimento e Tecnologia da Informação - Universidade Católica de Brasília (2002-2004).
 - Graduação em Ciência da Computação - Universidade Católica de Brasília (1993-1996)​​.
+## Linhas de Pesquisa
+{{< postsByCategories caput="" categories="knowledge_areas,cristiane_ramos" >}}
 ## Formação Complementar
 - Diversas formações complementares, incluindo Metodologia Científica, Elaboração de Conteúdo para EAD, Neurociência na Docência, entre outras​​.
 ## Experiência Profissional e Docência
 - Professora na Universidade de Brasília: Desde 2010, ministrando disciplinas como Fundamentos de Qualidade de Software e Introdução à Engenharia​​.
 - Experiência anterior: Professora nas Faculdades Integradas do UniCESP (2005-2007), ministrando Gerência da Qualidade​​.
-## Linhas de Pesquisa
-- Principais Linhas de Pesquisa: Qualidade de Software, [Educação em Engenharia de Software](/area/learning/), Governo Digital​​.
+
 ## Projetos de Pesquisa
+{{< postsByCategories categories="project,cristiane_ramos" >}}
 - Automação de Serviços Públicos no âmbito da Transformação dos Serviços: Projeto de pesquisa e desenvolvimento na parceria UnB - Ministério do Planejamento (2017-2020).
 - Métricas de Software para apoio a Gestão em Empresas (2002-2005)​​.
 ## Áreas de Atuação Específicas

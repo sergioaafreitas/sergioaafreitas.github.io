@@ -9,6 +9,7 @@ summary: This project aims to highlight the importance of understanding the fiel
 authorimage: ../assets/images/global/author.webp
 categories: 
 - project
+- fabiana_mendes
 tags: 
 - green_software
 - project_gsd

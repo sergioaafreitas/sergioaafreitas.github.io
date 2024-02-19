@@ -9,6 +9,7 @@ summary: The area of Verification, Validation, and Testing is a critical discipl
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- cristiane_ramos
 tags: 
 - verification_validation_testing
 ---

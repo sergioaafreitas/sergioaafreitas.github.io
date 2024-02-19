@@ -9,6 +9,7 @@ summary: A área de Requisitos de Software é essencial na engenharia de softwar
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
+- george_marsicano
 tags: 
 - software_requirements
 ---

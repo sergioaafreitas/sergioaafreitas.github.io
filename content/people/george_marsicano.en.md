@@ -21,6 +21,8 @@ tags:
 - Professional Master's in Knowledge Management and IT - Catholic University of Brasília (UCB/DF), Brazil (2005-2007).
 - Specialization in Object-Oriented Systems - Catholic University of Brasília (UCB/DF), Brazil (2002-2003).
 - Bachelor’s in Data Processing - Catholic University of Brasília (UCB/DF), Brazil (1998-2001).
+## Research Lines
+{{< postsByCategories caput="" categories="knowledge_areas,george_marsicano" >}}
 ## Additional Qualifications
 - International Diploma in Coaching in Organizational Contexts by the University of London, Mexico (2013-2014).
 - Certified Coach by the International School of Coaching - The Newfield Network.

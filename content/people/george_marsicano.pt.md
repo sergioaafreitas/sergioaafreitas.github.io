@@ -21,6 +21,8 @@ tags:
 - Mestrado Profissional em Gestão do Conhecimento e da TI - Universidade Católica de Brasília (UCB/DF), Brasil (2005-2007).
 - Especialização em Sistemas Orientados a Objetos - Universidade Católica de Brasília (UCB/DF), Brasil (2002-2003).
 - Graduação em Processamento de Dados - Universidade Católica de Brasília (UCB/DF), Brasil (1998-2001)​​.
+## Linhas de pesquisa
+{{< postsByCategories caput="" categories="knowledge_areas,george_marsicano" >}}
 ## Qualificações Adicionais
 - Diplomado Internacional em Coaching em Contextos Organizacionais pela Universidad de Londres, México (2013-2014).
 - Coach certificado pela Escola Internacional de Coach - The Newfield Network​​.

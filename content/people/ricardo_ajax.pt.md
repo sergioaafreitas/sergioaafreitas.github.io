@@ -21,9 +21,12 @@ tags:
 - Mestrado Profissional - Gestão do Conhecimento e Tecnologia da Informação, Universidade Católica de Brasília (2003-2005).
 - Especializações: Engenharia de Software, Análise de Sistemas.
 - Graduação em Engenharia Elétrica - Universidade de Brasília (1977-1981)​​.
+## Linhas de pesquisa
+{{< postsByCategories caput="" categories="knowledge_areas,ricardo_ajax" >}}
 ## Experiência Profissional
 - Professor na Universidade de Brasília: Ministrando disciplinas como Melhoria de Processo de Software, Técnicas de Medição Funcional e Estimativas de Software, Verificação e Validação de Software​​.
 ## Projetos de Pesquisa
+{{< postsByCategories categories="project,ricardo_ajax" >}}
 - Desenvolvimento e Inovação para Automação de Serviços Públicos no âmbito da Transformação dos Serviços (2017-2020).
 - Projeto de Pesquisa em Dimensionamento da Capacidade Produtiva - Modelagem Matemática, Ministério do Planejamento (2017-2019).
 - Pesquisa e Desenvolvimento do Modelo de Gestão do Desempenho Individual da Companhia Nacional de Abastecimento - CONAB (2016-2017)​​.

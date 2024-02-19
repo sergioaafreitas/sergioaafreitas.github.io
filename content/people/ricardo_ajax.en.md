@@ -21,9 +21,12 @@ tags:
 - Professional Master's - Knowledge Management and Information Technology, Catholic University of Brasília (2003-2005).
 - Specializations: Software Engineering, Systems Analysis.
 - Bachelor’s in Electrical Engineering - University of Brasília (1977-1981).
+## Research Lines
+{{< postsByCategories caput="" categories="knowledge_areas,ricardo_ajax" >}}
 ## Professional Experience
 - Professor at the University of Brasília: Teaching subjects such as Software Process Improvement, Functional Measurement Techniques and Software Estimates, Software Verification and Validation.
 ## Research Projects
+{{< postsByCategories categories="project,ricardo_ajax" >}}
 - Development and Innovation for Public Service Automation within the scope of Service Transformation (2017-2020).
 - Research Project on Productive Capacity Sizing - Mathematical Modeling, Ministry of Planning (2017-2019).
 - Research and Development of the Individual Performance Management Model of the National Supply Company - CONAB (2016-2017).

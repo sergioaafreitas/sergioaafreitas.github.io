@@ -9,6 +9,8 @@ summary: A research project in partnership with IBICT and funded by FAP/DF.
 authorimage: ../assets/images/global/author.webp
 categories: 
 - project
+- sergio_freitas
+- andre_lanna
 tags: 
 - machine_learning
 - nlp
