@@ -26,6 +26,7 @@ teamwork: "Teamwork"
 soft_skills: "Soft Skills"
 active_learning: "Active Learning"
 education: "Education"
+digital_transformation: "Digital Transformation"
 
 # Participation Types
 researcher: "Researcher"
@@ -46,8 +47,10 @@ project_cc: "Project Canal Ciência"
 closed: "Closed"
 
 # Categories
-knowledge_areas: "Knowledge Areas"
+knowledge_areas: "Areas of Expertise"
 project: "Project"
+oportunities: "Opportunities"
+edital: "Editals and Calls"
 people: "People"
 undergraduate: "Undergraduate"
 graduate: "Graduate"

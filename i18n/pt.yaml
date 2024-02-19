@@ -26,6 +26,7 @@ teamwork: "Trabalho em Equipe"
 soft_skills: "Habilidades Sociais"
 active_learning: "Aprendizagem Ativa"
 education: "Educação"
+digital_transformation: "Transformação Digital"
 
 #Tipos de participação
 researcher: "Pesquisador"
@@ -48,6 +49,8 @@ closed: "Concluído"
 # CATEGORIAS
 knowledge_areas: "Áreas de atuação"
 project: "Projeto"
+oportunities: "Oportunidades"
+edital: "Editais"
 people: "Pessoal"
 undergraduate: "Graduação"
 graduate: "Pós-Graduação"

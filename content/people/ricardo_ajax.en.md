@@ -11,6 +11,7 @@ categories:
 - people
 tags: 
 - researcher
+- digital_transformation
 ---
 ## Academic and Professional Profile
 - Current Position: Professor at the [University of Brasília](https://www.unb.br/) (UnB), engaged in the undergraduate [Software Engineering](http://software.unb.br/) program.

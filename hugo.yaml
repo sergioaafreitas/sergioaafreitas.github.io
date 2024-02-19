@@ -81,7 +81,7 @@ languages:
           weight: 40
         - identifier: oportunity
           name: Oportunidades
-          url: /oportunities/
+          url: /categories/oportunities/
           weight: 50
       cedis:
         - identifier: areas
@@ -251,7 +251,7 @@ languages:
           weight: 40
         - identifier: oportunity
           name: Oportunities
-          url: /oportunities/
+          url: /categories/oportunities/
           weight: 50
       cedis:
         - identifier: areas

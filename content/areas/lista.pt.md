@@ -12,30 +12,30 @@ categories:
 tags: [  ]
 ---
 **Desenvolvimento e Engenharia de Software**
-- [Arquitetura de Software](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/arquitetura-de-sofware)
-- [Requisitos de Software](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/requisitos-de-software)
-- [Verificação, Validação e Testes](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/verifica%C3%A7%C3%A3o-valida%C3%A7%C3%A3o-e-testes)
-- [Engenharia de Linhas de Produto de Software](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/engenharia-de-linhas-de-produto-de-software)
-- [Green Software Development](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/green-software-development)
+- [Arquitetura de Software](/areas/software_arquitecture)
+- [Requisitos de Software](/areas/software_requirements)
+- [Verificação, Validação e Testes](/areas/verival)
+- [Engenharia de Linhas de Produto de Software](/areas/software_products)
+- [Green Software Development](/areas/green_software)
 
 **Metodologias e Abordagens de Desenvolvimento**
 - Abordagens de Desenvolvimento de Software (Ágeis, Dirigidas a Plano e Híbridas)
 - Formação e Capacitação de Equipes Ágeis
 
 **Tecnologias Emergentes e Inovação**
-- [Inteligência Artificial e Processamento de Linguagem Natural](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/intelig%C3%AAncia-artificial-e-ci%C3%AAncia-da-aprendizagem)
-- [Computação de alto desempenho e computação em nuvem](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/computa%C3%A7%C3%A3o-de-alto-desempenho-e-computa%C3%A7%C3%A3o-em-nuvem)
-- Transformação Digital
+- [Inteligência Artificial e Processamento de Linguagem Natural](/areas/ai_pln)
+- [Computação de alto desempenho e computação em nuvem](/areas/hpc)
+- [Transformação Digital](/areas/transformation)
 
 **Aspectos Humanos e Gerenciais**
-- [Trabalho em Equipe e Soft Skills](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/trabalho-em-equipe-e-soft-skills)
+- [Trabalho em Equipe e Soft Skills](/areas/soft_skills)
 - Aspectos Humanos na Engenharia de Software
 - Aspectos Humanos da Cybersegurança
 
 **Educação e Aprendizagem**
 - [Learning Analytics e gestão educacional](/areas/learning_analytics/)
-- [Metodologias ativas no Ensino Superior e Ciência da Aprendizagem](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/metodologias-ativas-no-ensino-superior)
-- [Gamificação](/areas/gamificação/)
+- [Metodologias ativas no Ensino Superior e Ciência da Aprendizagem](/areas/active_learning)
+- [Gamificação](/areas/gamification/)
 
 **Pesquisa e Desenvolvimento em Produtos e Soluções de Software**
 - Desenvolvimento, Pesquisa e Inovação em Produtos e Soluções de Software
