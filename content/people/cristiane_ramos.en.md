@@ -33,6 +33,20 @@ tags:
 {{< postsByCategories categories="project,cristiane_ramos" >}}
 - Automation of Public Services in the context of Service Transformation: Research and development project in partnership between UnB and the Ministry of Planning (2017-2020).
 - Software Metrics to support Management in Companies (2002-2005).
+## Guidance
+### Actual
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,cristiane_ramos" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,cristiane_ramos" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,cristiane_ramos" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,cristiane_ramos" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,cristiane_ramos" tags="" notags="inactive">}}
+
+### Previous
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,cristiane_ramos" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,cristiane_ramos" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,cristiane_ramos" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,cristiane_ramos" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,cristiane_ramos" tags="inactive" notags="">}}
 ## Specific Areas of Expertise
 - Specialties: Software Engineering, Software Quality, Software Process Improvement, Software Engineering Education.
 ## Languages

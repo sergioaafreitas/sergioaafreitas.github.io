@@ -33,6 +33,20 @@ tags:
 {{< postsByCategories categories="project,cristiane_ramos" >}}
 - Automação de Serviços Públicos no âmbito da Transformação dos Serviços: Projeto de pesquisa e desenvolvimento na parceria UnB - Ministério do Planejamento (2017-2020).
 - Métricas de Software para apoio a Gestão em Empresas (2002-2005)​​.
+## Orientações
+### Atuais
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,cristiane_ramos" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,cristiane_ramos" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,cristiane_ramos" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,cristiane_ramos" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,cristiane_ramos" tags="" notags="inactive">}}
+
+### Anteriores
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,cristiane_ramos" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,cristiane_ramos" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,cristiane_ramos" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,cristiane_ramos" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,cristiane_ramos" tags="inactive" notags="">}}
 ## Áreas de Atuação Específicas
 - Especialidades: Engenharia de Software, Qualidade de Software, Melhoria de Processos de Software, Educação em Engenharia de Software​​.
 ## Idiomas

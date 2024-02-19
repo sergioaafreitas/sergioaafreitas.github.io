@@ -29,7 +29,20 @@ tags:
 {{< postsByCategories categories="project,ricardo_ajax" >}}
 - Desenvolvimento e Inovação para Automação de Serviços Públicos no âmbito da Transformação dos Serviços (2017-2020).
 - Projeto de Pesquisa em Dimensionamento da Capacidade Produtiva - Modelagem Matemática, Ministério do Planejamento (2017-2019).
-- Pesquisa e Desenvolvimento do Modelo de Gestão do Desempenho Individual da Companhia Nacional de Abastecimento - CONAB (2016-2017)​​.
+- Pesquisa e Desenvolvimento do Modelo de Gestão do Desempenho Individual da Companhia Nacional de Abastecimento - CONAB (2016-2017)​​## Orientações
+### Atuais
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,ricardo_ajax" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,ricardo_ajax" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,ricardo_ajax" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,ricardo_ajax" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,ricardo_ajax" tags="" notags="inactive">}}
+
+### Anteriores
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,ricardo_ajax" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,ricardo_ajax" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,ricardo_ajax" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,ricardo_ajax" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,ricardo_ajax" tags="inactive" notags="">}}
 ## Formação Complementar
 - Formações complementares em áreas como SCAMPI, Balanced Scorecard, CMMI, FMEA, Gerência de Projetos, entre outras​​.
 ## Prêmios e Reconhecimentos

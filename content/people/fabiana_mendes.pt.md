@@ -34,6 +34,20 @@ tags:
 - Fatores humanos na segurança cibernética (2022-Atual).
 - Criação e avaliação da usabilidade de um aplicativo sobre Doença de Parkinson (2020-Atual).
 - Esses projetos exploram temas como segurança cibernética, saúde digital e usabilidade​​.
+## Orientações
+### Atuais
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,fabiana_mendes" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,fabiana_mendes" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,fabiana_mendes" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,fabiana_mendes" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,fabiana_mendes" tags="" notags="inactive">}}
+
+### Anteriores
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,fabiana_mendes" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,fabiana_mendes" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,fabiana_mendes" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,fabiana_mendes" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,fabiana_mendes" tags="inactive" notags="">}}
 ## Idiomas
 - Inglês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
 - Espanhol, Alemão e Finlandês: Conhecimentos básicos​​.

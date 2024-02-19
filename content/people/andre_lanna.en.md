@@ -28,6 +28,20 @@ tags:
 ## Research Projects
 {{< postsByCategories categories="project,andre_lanna" >}}
 - Software Factory Laboratory: Research and development project initiated in 2018 at the University of Brasília.
+## Guidance
+### Actual
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,andre_lanna" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,andre_lanna" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,andre_lanna" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,andre_lanna" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,andre_lanna" tags="" notags="inactive">}}
+
+### Previous
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,andre_lanna" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,andre_lanna" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,andre_lanna" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,andre_lanna" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,andre_lanna" tags="inactive" notags="">}}
 ## Specific Fields of Work
 - Specialties: Software Engineering, Programming Languages, Information Systems.
 ## Awards and Recognitions

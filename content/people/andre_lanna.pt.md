@@ -28,6 +28,20 @@ tags:
 ## Projetos de Pesquisa
 {{< postsByCategories categories="project,andre_lanna" >}}
 - Laboratório Fábrica de Software: Projeto de pesquisa e desenvolvimento iniciado em 2018 na Universidade de Brasília.
+## Orientações
+### Atuais
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,andre_lanna" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,andre_lanna" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,andre_lanna" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,andre_lanna" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,andre_lanna" tags="" notags="inactive">}}
+
+### Anteriores
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,andre_lanna" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,andre_lanna" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,andre_lanna" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,andre_lanna" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,andre_lanna" tags="inactive" notags="">}}
 ## Áreas de Atuação Específicas
 - Especialidades: Engenharia de Software, Linguagens de Programação, Sistemas de Informação​​.
 ## Prêmios e Reconhecimentos

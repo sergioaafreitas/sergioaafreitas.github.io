@@ -34,6 +34,20 @@ tags:
 - Human factors in cybersecurity (2022-Present).
 - Creation and usability evaluation of an app on Parkinson's Disease (2020-Present).
 - These projects explore topics such as cybersecurity, digital health, and usability.
+## Guidance
+### Actual
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,fabiana_mendes" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,fabiana_mendes" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,fabiana_mendes" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,fabiana_mendes" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,fabiana_mendes" tags="" notags="inactive">}}
+
+### Previous
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,fabiana_mendes" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,fabiana_mendes" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,fabiana_mendes" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,fabiana_mendes" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,fabiana_mendes" tags="inactive" notags="">}}
 ## Languages
 - English: Understands Well, Speaks Well, Reads Well, Writes Well.
 - Spanish, German, and Finnish: Basic knowledge.

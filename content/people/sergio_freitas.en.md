@@ -41,11 +41,19 @@ tags:
 {{< postsByCategories categories="project,sergio_freitas" >}}
 
 ## Guidance
-{{< postsByCategories caput="### PhD" categories="phd_candidate,sergio_freitas" >}}
-{{< postsByCategories caput="### Master's degree" categories="master_student,sergio_freitas" >}}
-{{< postsByCategories caput="### Postgraduate Specialization" categories="specialization,sergio_freitas" >}}
-{{< postsByCategories caput="### Undergraduate Research" categories="scientific_initiation,sergio_freitas" >}}
-{{< postsByCategories caput="### Bachelor's Thesis" categories="tcc,sergio_freitas" >}}
+### Actual
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,sergio_freitas" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,sergio_freitas" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,sergio_freitas" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,sergio_freitas" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,sergio_freitas" tags="" notags="inactive">}}
+
+### Previous
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,sergio_freitas" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,sergio_freitas" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,sergio_freitas" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,sergio_freitas" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,sergio_freitas" tags="inactive" notags="">}}
 
 ## Contact
 - Professional Address:  

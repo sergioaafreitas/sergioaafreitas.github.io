@@ -29,6 +29,20 @@ tags:
 - [Laguna - Open Informational Infrastructure and Data Lake](https://www.cedis.unb.br/projetos/laguna-cloud) (2022-Present).
 - Cloud IoT and Distributed Systems (2020-2022).
 - BioCloud - A Framework for the Execution of Biotechnology Applications on Several Platforms of the Amazon AWS Cloud (2020-2022).
+## Guidance
+### Actual
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,daniel_sundfeld" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,daniel_sundfeld" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,daniel_sundfeld" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,daniel_sundfeld" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,daniel_sundfeld" tags="" notags="inactive">}}
+
+### Previous
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,daniel_sundfeld" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,daniel_sundfeld" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,daniel_sundfeld" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,daniel_sundfeld" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,daniel_sundfeld" tags="inactive" notags="">}}
 ## Languages
 - English: Understands Well, Speaks Well, Reads Well, Writes Well.
 - Spanish: Understands Well, Speaks Fairly, Reads Fairly, Writes Little.

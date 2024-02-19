@@ -34,6 +34,20 @@ tags:
 - Transformação digital de serviços públicos do governo brasileiro (2020-2023).
 - HASE - Human Aspects in Software Engineering (2016-Atual).
 - Esses projetos envolvem pesquisa e inovação em metodologias, modelos e ferramentas para aprimorar serviços públicos digitais e aspectos humanos na engenharia de software​​.
+## Orientações
+### Atuais
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,george_marsicano" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,george_marsicano" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,george_marsicano" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,george_marsicano" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,george_marsicano" tags="" notags="inactive">}}
+
+### Anteriores
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,george_marsicano" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,george_marsicano" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,george_marsicano" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,george_marsicano" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,george_marsicano" tags="inactive" notags="">}}
 ## Áreas de Atuação Específicas
 - Especialidades: Engenharia de Software, Gestão de Projetos, Engenharia de Requisitos, Coach Ontológico​​.
 ## Publicações Destacadas

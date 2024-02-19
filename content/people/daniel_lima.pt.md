@@ -29,6 +29,20 @@ tags:
 - [Laguna - Infraestrutura Informacional Aberta e Lago de Dados](https://www.cedis.unb.br/projetos/laguna-cloud) (2022-Atual).
 - Cloud IoT e Sistemas Distribuídos (2020-2022).
 - BioCloud - A Framework for the Execution of Biotechnology Applications in Several Platforms of the Amazon AWS Cloud (2020-2022)​​.
+## Orientações
+### Atuais
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,daniel_sundfeld" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,daniel_sundfeld" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,daniel_sundfeld" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,daniel_sundfeld" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,daniel_sundfeld" tags="" notags="inactive">}}
+
+### Anteriores
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,daniel_sundfeld" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Mestrado" categories="master_student,daniel_sundfeld" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Especializaçào" categories="specialization,daniel_sundfeld" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Iniciação Científica" categories="scientific_initiation,daniel_sundfeld" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### TCC" categories="tcc,daniel_sundfeld" tags="inactive" notags="">}}
 ## Idiomas
 - Inglês: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
 - Espanhol: Compreende Bem, Fala Razoavelmente, Lê Razoavelmente, Escreve Pouco.

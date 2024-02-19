@@ -30,6 +30,20 @@ tags:
 - Development and Innovation for Public Service Automation within the scope of Service Transformation (2017-2020).
 - Research Project on Productive Capacity Sizing - Mathematical Modeling, Ministry of Planning (2017-2019).
 - Research and Development of the Individual Performance Management Model of the National Supply Company - CONAB (2016-2017).
+## Guidance
+### Actual
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,ricardo_ajax" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,ricardo_ajax" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,ricardo_ajax" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,ricardo_ajax" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,ricardo_ajax" tags="" notags="inactive">}}
+
+### Previous
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,ricardo_ajax" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,ricardo_ajax" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,ricardo_ajax" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,ricardo_ajax" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,ricardo_ajax" tags="inactive" notags="">}}
 ## Additional Training
 - Complementary training in areas such as SCAMPI, Balanced Scorecard, CMMI, FMEA, Project Management, among others.
 ## Awards and Recognitions

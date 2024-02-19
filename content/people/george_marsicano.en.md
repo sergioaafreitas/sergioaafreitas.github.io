@@ -34,6 +34,20 @@ tags:
 - Digital transformation of Brazilian government public services (2020-2023).
 - HASE - Human Aspects in Software Engineering (2016-Present).
 - These projects involve research and innovation in methodologies, models, and tools to improve digital public services and human aspects in software engineering.
+## Guidance
+### Actual
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,george_marsicano" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,george_marsicano" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,george_marsicano" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,george_marsicano" tags="" notags="inactive">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,george_marsicano" tags="" notags="inactive">}}
+
+### Previous
+{{< postsByCategoriesTags caput="#### PhD" categories="phd_candidate,george_marsicano" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Master's degree" categories="master_student,george_marsicano" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Postgraduate Specialization" categories="specialization,george_marsicano" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Undergraduate Research" categories="scientific_initiation,george_marsicano" tags="inactive" notags="">}}
+{{< postsByCategoriesTags caput="#### Bachelor's Thesis" categories="tcc,george_marsicano" tags="inactive" notags="">}}
 ## Specific Areas of Expertise
 - Specialties: Software Engineering, Project Management, Requirements Engineering, Ontological Coaching.
 ## Highlighted Publications
