@@ -11,31 +11,31 @@ categories:
 - knowledge_areas
 tags: [  ]
 ---
-**Software Development and Engineering**
-- [Software Architecture](/en/areas/software_arquitecture)
+## Software Development and Engineering
+- [Software Architecture](/en/areas/software_architecture)
 - [Software Requirements](/en/areas/software_requirements)
-- [Verification, Validation, and Testing](/en/areas/verival)
+- [Verification, Validation and Testing](/en/areas/verival)
 - [Software Product Line Engineering](/en/areas/software_products)
 - [Green Software Development](/en/areas/green_software)
 
-**Development Methodologies and Approaches**
-- Software Development Approaches (Agile, Plan-Driven, and Hybrid)
+## Development Methodologies and Approaches
+- Software Development Approaches (Agile, Plan-Driven and Hybrid)
 - Formation and Training of Agile Teams
 
-**Emerging Technologies and Innovation**
+## Emerging Technologies and Innovation
 - [Artificial Intelligence and Natural Language Processing](/en/areas/ai_pln)
 - [High-Performance Computing and Cloud Computing](/en/areas/hpc)
 - [Digital Transformation](/en/areas/transformation)
 
-**Human and Managerial Aspects**
+## Human and Managerial Aspects
 - [Teamwork and Soft Skills](/en/areas/soft_skills)
 - Human Aspects in Software Engineering
 - Human Aspects of Cybersecurity
 
-**Education and Learning**
+## Education and Learning
 - [Learning Analytics and Educational Management](/en/areas/learning_analytics)
 - [Active Learning Methodologies in Higher Education and Learning Science](/en/areas/active_learning)
 - [Gamification](/en/areas/gamification)
 
-**Research and Development in Software Products and Solutions**
+## Research and Development in Software Products and Solutions
 - Development, Research, and Innovation in Software Products and Solutions

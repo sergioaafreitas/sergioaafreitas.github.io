@@ -47,6 +47,10 @@ languages:
           - identifier: labvista
             image: "images/global/labvista.svg"
             alt: "LabVista"
+      p4:
+        heading: "Últimas notícias"
+        content:
+          - text: "Mantenha-se atualizado sobre todas as novidades do CEDIS! Explore nossas atividades, projetos, publicações e muito mais. Descubra o que estamos fazendo para inovar e contribuir com nossa comunidade."
       social_media:
         github:
           enabled: false
@@ -218,6 +222,10 @@ languages:
           - identifier: labvista
             image: "images/global/labvista.svg"
             alt: "LabVista"
+      p4:
+        heading: "Latest News"
+        content:
+          - text: "Stay updated on all the news from CEDIS! Explore our activities, projects, publications, and much more. Find out what we're doing to innovate and contribute to our community."
       social_media:
         github:
           enabled: false

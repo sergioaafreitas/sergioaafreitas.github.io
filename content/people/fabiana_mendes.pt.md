@@ -11,6 +11,8 @@ categories:
 - people
 tags: 
 - researcher
+- green_software
+- project_gsd
 ---
 ## Perfil Acadêmico e Profissional
 - Posição Atual: Professora Adjunta da [Universidade de Brasília](https://www.unb.br/) (UnB), atuando no curso de graduação em [Engenharia de Software](http://software.unb.br/).

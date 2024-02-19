@@ -11,6 +11,8 @@ categories:
 - people
 tags: 
 - researcher
+- green_software
+- project_gsd
 ---
 ## Academic and Professional Profile
 - Current Position: Associate Professor at the [University of Brasília](https://www.unb.br/) (UnB), engaged in the undergraduate [Software Engineering](http://software.unb.br/) program.

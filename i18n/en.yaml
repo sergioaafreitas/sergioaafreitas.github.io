@@ -21,7 +21,7 @@ verification_validation_testing: "Verification, Validation and Testing"
 software_product_line: "Software Product Line"
 green_software: "Green Software"
 ai: "Artificial Intelligence"
-nlp: "Natural Language Processing"
+nlp: "Nat Lang Processing"
 teamwork: "Teamwork"
 soft_skills: "Soft Skills"
 active_learning: "Active Learning"
@@ -44,6 +44,7 @@ inactive: "Inactive"
 # Projects
 dfcris: "Project DFCris"
 project_cc: "Project Canal Ciência"
+project_gsd: "Project Green SD"
 closed: "Closed"
 
 # Categories
