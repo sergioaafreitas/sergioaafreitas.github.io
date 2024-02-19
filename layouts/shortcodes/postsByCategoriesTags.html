@@ -6,6 +6,9 @@
 {{ $notags := split $notagsInput "," }}  <!-- Lista de 'não tags' -->
 {{ $caput := .Get "caput" | markdownify }}
 
+{{ $showSummary := .Get "showSummary" | default true }}
+{{ $showDescription := .Get "showDescription" | default true }}
+
 {{ $hasMatches := false }}
 {{ range sort $.Site.RegularPages "Title" }}
   {{ $thisPage := . }}
@@ -110,10 +113,10 @@
       {{ if $match }}
         <li>
           <span><strong><a href="{{ $thisPage.Permalink }}">{{ $thisPage.Title }}</a></strong></span>
-          {{ if $thisPage.Summary }}
+          {{ if and $showSummary $thisPage.Summary }}
             <span> - {{ $thisPage.Summary }}</span>
           {{ end }}
-          {{ if isset $thisPage.Params "description" }}
+          {{ if and $showDescription (isset $thisPage.Params "description") }}
             <span> {{ $thisPage.Params.description }}</span>
           {{ end }}
         </li>
