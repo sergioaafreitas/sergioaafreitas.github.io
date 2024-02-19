@@ -20,17 +20,18 @@ tags:
 - project_cc
 ---
 ## Perfil Acadêmico e Profissional
-- Posição Atual: Professor Titular da [Universidade de Brasília](https://www.unb.br/) (UnB), atuando no curso de graduação em [Engenharia de Software](http://software.unb.br/) e no [Programa de Pós-Graduação em Computação Aplicada](https://ppca.unb.br/).
+
+- Posição Atual: Professor Titular da {{< link-interno "https://www.unb.br/" "Universidade de Brasília" >}} (UnB), atuando no curso de graduação em {{< link-interno "http://software.unb.br/" "Engenharia de Software" >}} e no {{< link-interno "https://ppca.unb.br/" "Programa de Pós-Graduação em Computação Aplicada" >}}.
 - Experiência Anterior: 
     - **na UnB:** Presidente do Fórum Nacional de Pró-reitores de Graduação (ForGRAD), Decano (Pró-reitor) de Ensino de Graduação (UnB), Diretor do Centro de Educação a Distância (CEAD/UnB), Diretor Técnico de Graduação (DEG/UnB), Diretor de Ensino de Graduação a Distância (DEG/UnB)​​.
-    - **na UFES:** Professor do [Departamento de Informática](https://informatica.ufes.br/) da [UFES](https://www.ufes.br/), Diretor de Pesquisa e Pós-Graduação da Pró-reitoria de Pesquisa e Pós-Graduação (UFES), Diretor-Geral do Núcleo de Processamento de Dados (UFES), Coordenador Administrativo do PoP-ES / RNP, Coordenador do curso de Graduação em Engenharia de Computação (UFES) e membro permanente do Programa de Pós-Graduação em Informática (PPGI/UFES).
+    - **na UFES:** Professor do {{< link-interno "https://informatica.ufes.br/" "Departamento de Informática" >}} da {{< link-interno "https://www.ufes.br/" "UFES" >}}, Diretor de Pesquisa e Pós-Graduação da Pró-reitoria de Pesquisa e Pós-Graduação (UFES), Diretor-Geral do Núcleo de Processamento de Dados (UFES), Coordenador Administrativo do PoP-ES / RNP, Coordenador do curso de Graduação em Engenharia de Computação (UFES) e membro permanente do Programa de Pós-Graduação em Informática (PPGI/UFES).
     - **no INEP:** Foi avaliador de cursos do INEP/MEC de 2006 a 2020.
 ## Formação Acadêmica
 - Doutorado em Engenharia Elétrica - Universidade Federal do Espírito Santo (UFES), Brasil (2003-2005).
 - Mestrado em Computação - Universidade Federal do Rio Grande do Sul (UFRGS), Brasil (1991-1993).
 - Graduação em Engenharia Elétrica (ênfase eletrônica) - Universidade Federal de Uberlândia (UFU), Brasil (1985-1990)​​.
 ## Áreas de Atuação e Pesquisa
-- Linhas de Pesquisa: [Processamento de Linguagem Natural](/areas/ai_pln), [Inteligência Artificial](/areas/ai_pln), [Metodologias Ativas de Aprendizagem na Engenharia e na Computação](/areas/active_learning), [Gamificação](/areas/gamification/), [Learning Analytics](/areas/learning_analytics/) e Segurança Computacional​​. 
+- Linhas de Pesquisa: {{< link-interno "/areas/ai_pln" "Processamento de Linguagem Natural" >}}, {{< link-interno "/areas/ai_pln" "Inteligência Artificial" >}}, {{< link-interno "/areas/active_learning" "Metodologias Ativas de Aprendizagem na Engenharia e na Computação" >}}, {{< link-interno "/areas/gamification/" "Gamificação" >}}, {{< link-interno "/areas/learning_analytics/" "Learning Analytics" >}} e Segurança Computacional​​. 
 
 - Especialidades: Metodologia e Técnicas da Computação, Tecnologia Educacional​​.
 ## Contribuições e Reconhecimentos
@@ -41,11 +42,11 @@ tags:
 - Projetos de Ensino: Implementação de gamificação nas disciplinas de Interação Humano Computador e Desenvolvimento de Software​​.
 
 ## Orientações
-[Clique para ver](/categories/sergio_freitas)
+{{< link-interno "/categories/sergio_freitas" "Clique para ver" >}}
 
 ## Contato
 - Endereço Profissional:  
     Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.
 - Email: sergiofreitas@unb.br
-- Lattes: [CV Lattes](http://lattes.cnpq.br/0395549254894676)
-- Orcid ID: [Orcid Profile​](https://orcid.org/0000-0003-3996-4985)
+- Lattes: {{< link-interno "http://lattes.cnpq.br/0395549254894676" "CV Lattes" >}}
+- Orcid ID: {{< link-interno "https://orcid.org/0000-0003-3996-4985" "Orcid Profile​" >}}
