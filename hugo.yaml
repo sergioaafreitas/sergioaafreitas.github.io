@@ -160,18 +160,10 @@ languages:
           name: About
           url: /about/
           weight: 10
-        - identifier: blog
-          name: Blog
-          url: /categories/blog/
-          weight: 20
         - identifier: news
           name: Notícias
           url: /categories/news/
           weight: 30
-        - identifier: prose
-          name: Prose
-          url: /prose/
-          weight: 40
         - identifier: contact
           name: Contato
           url: /contact/
@@ -264,7 +256,7 @@ languages:
       cedis:
         - identifier: areas
           pre: stars
-          name: "Fields of expertise"
+          name: "Areas of expertise"
           post: "Research, development, and training"
           url: /categories/knowledge_areas/
           weight: 10
@@ -334,18 +326,10 @@ languages:
           name: About
           url: /about/
           weight: 10
-        - identifier: blog
-          name: Blog
-          url: /categories/blog/
-          weight: 20
         - identifier: news
           name: News
           url: /categories/news/
           weight: 30
-        - identifier: prose
-          name: Prose
-          url: /prose/
-          weight: 40
         - identifier: contact
           name: Contact
           url: /contact/

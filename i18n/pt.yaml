@@ -27,6 +27,7 @@ soft_skills: "Habilidades Sociais"
 active_learning: "Aprendizagem Ativa"
 education: "Educação"
 digital_transformation: "Transformação Digital"
+esw: "Engenharia de Software"
 
 #Tipos de participação
 researcher: "Pesquisador"
@@ -46,6 +47,7 @@ dfcris: "Projeto DFCris"
 project_cc: "Projeto Canal Ciência"
 project_gsd: "Projeto Green SD"
 closed: "Concluído"
+agreement: "Acordo de Cooperação"
 
 # CATEGORIAS
 knowledge_areas: "Áreas de atuação"
