@@ -25,7 +25,6 @@ O objetivo do projeto é a expansão e ampliação do modelo Cris para o ambie
 ## Integrantes
 
 ### Pesquisadores 
-
 - Prof. André Luiz Peron Martins Lanna (CEDIS)
 - Prof. Sergio A. A. Freitas (CEDIS)
 ### Estudantes de Iniciação Científica
