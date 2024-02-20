@@ -9,24 +9,19 @@
   {{ range $.Site.Data.publications.items }}
     {{ $includePublication := true }}
 
-    <!-- Verifica e filtra por ano, se especificado -->
+    <!-- Filtra por ano, se especificado -->
     {{ if and $year (not (eq (printf "%d" .year) $year)) }}
       {{ $includePublication = false }}
     {{ end }}
 
-    <!-- Continua para filtrar por keywords e notags independentemente do ano -->
     <!-- Filtra por keywords, se especificado e não vazio -->
-    {{ if and $includePublication (or (eq $keywordsInput "") (gt (len $keywords) 0)) }}
+    {{ if and $includePublication (gt (len $keywords) 0) }}
       {{ $keywordMatch := false }}
-      {{ if gt (len $keywordsInput) 0 }}
-        {{ range .keywords }}
-          {{ if in $keywords . }}
-            {{ $keywordMatch = true }}
-            {{ break }}
-          {{ end }}
+      {{ range .keywords }}
+        {{ if in $keywords . }}
+          {{ $keywordMatch = true }}
+          {{ break }}
         {{ end }}
-      {{ else }}
-        {{ $keywordMatch = true }}
       {{ end }}
       {{ if not $keywordMatch }}
         {{ $includePublication = false }}
@@ -34,13 +29,11 @@
     {{ end }}
 
     <!-- Exclui por 'não keywords', se especificado e não vazio -->
-    {{ if and $includePublication (or (eq $notagsInput "") (gt (len $notags) 0)) }}
-      {{ if gt (len $notagsInput) 0 }}
-        {{ range .keywords }}
-          {{ if in $notags . }}
-            {{ $includePublication = false }}
-            {{ break }}
-          {{ end }}
+    {{ if and $includePublication (gt (len $notags) 0) }}
+      {{ range .keywords }}
+        {{ if in $notags . }}
+          {{ $includePublication = false }}
+          {{ break }}
         {{ end }}
       {{ end }}
     {{ end }}
@@ -58,6 +51,7 @@
         {{- if eq .type "book" -}}, {{ .publisher }}{{- end -}}
         {{- if .year -}}, {{ .year }}.{{- end -}}
         {{- if .url -}} <a href="{{ .url }}" target="_blank">Available at: {{ .url }}</a>{{- end -}}
+        {{- if .doi -}}. DOI: <a href="https://doi.org/{{ .doi }}" target="_blank">{{ .doi }}</a>{{- end -}}
       </li>
     {{ end }}
   {{ end }}

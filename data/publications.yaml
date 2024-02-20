@@ -278,6 +278,7 @@ items:
     event: "20th International Conference on Computational Science and its Applications"
     location: "Cagliari, Italia"
     year: 2020
+    doi: "10.1007/978-3-030-58817-5_33"
     keywords: ["sergio_freitas"]
 
   - type: "workshop"
@@ -285,6 +286,7 @@ items:
     authors: ["MOTA, V. F. S.", "GOMES, R. L.", "FREITAS, S. A. A."]
     event: "Workshop sobre Educação em Computação (WEI)"
     year: 2020
+    doi: "10.5753/WEI.2020.11138"
     keywords: ["sergio_freitas"]
 
   - type: "article"
@@ -294,6 +296,7 @@ items:
     volume: "32"
     pages: "e5468"
     year: 2020
+    doi: "10.1002/CPE.5468"
     keywords: ["daniel_sundfeld"]
 
   - type: "article"
@@ -303,6 +306,7 @@ items:
     volume: "111"
     pages: "50-71"
     year: 2019
+    doi: "10.1016/J.INFSOF.2019.03.010"
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
@@ -311,6 +315,7 @@ items:
     event: "45th EUROMICRO Conference on Software Engineering and Advanced Applications"
     location: "Grécia"
     year: 2019
+    doi: "10.1109/SEAA.2019.00067"
     keywords: ["fabiana_mendes"]
 
   - type: "book chapter"
@@ -663,6 +668,7 @@ items:
     volume: "498"
     pages: "106"
     year: 2015
+    doi: 10.1007/978-3-662-46241-6_9
     keywords: ["fabiana_mendes"]
 
   - type: "book"
@@ -699,4 +705,3 @@ items:
     location: "Banff - Canada"
     year: 2015
     keywords: ["sergio_freitas"]
-

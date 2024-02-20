@@ -1,6 +1,6 @@
 baseURL: 'https://sergioaafreitas.github.io/'
 publishDir : "docs"
-DefaultContentLanguage: en
+DefaultContentLanguage: pt
 languages:
   pt:
   # PORTUGUÊS
