@@ -5,7 +5,7 @@ items:
     event: "56th Hawaii International Conference on System Science"
     location: "Maui"
     year: 2023
-    keywords: ["learning_analytics", "sergio_freitas"]
+    keywords: ["learning_analytics", "sergio_freitas", "cristiane_ramos"]
     proceedings: "Proceedings of the 56th Hawaii International Conference on System Science"
 
   - type: "conference"
@@ -650,7 +650,7 @@ items:
     event: "11th International Conference on Software Engineering Advances (ICSEA)"
     location: "Rome"
     year: 2016
-    keywords: ["sergio_freitas"]
+    keywords: ["sergio_freitas", "ricardo_ajax"]
 
   - type: "article"
     title: "A concept-environment for computer-based augmentative and alternative communication founded on a systematic review"
