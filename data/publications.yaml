@@ -434,6 +434,7 @@ items:
     pages: "63-67"
     year: 2018
     isbn: "9788560365272"
+    url: "https://portal.tcu.gov.br/governanca-em-tecnologia-de-informacao-e-comunicacao-para-o-setor-publico.htm"
     keywords: ["sergio_freitas"]
 
   - type: "book chapter"
@@ -445,6 +446,7 @@ items:
     pages: "69-72"
     year: 2018
     isbn: "9788560365272"
+    url: "https://portal.tcu.gov.br/governanca-em-tecnologia-de-informacao-e-comunicacao-para-o-setor-publico.htm"
     keywords: ["sergio_freitas"]
 
   - type: "book"
@@ -465,6 +467,7 @@ items:
     pages: "81-84"
     year: 2018
     isbn: "9788560365272"
+    url: "https://portal.tcu.gov.br/governanca-em-tecnologia-de-informacao-e-comunicacao-para-o-setor-publico.htm"
     keywords: ["sergio_freitas"]
 
   - type: "book chapter"
@@ -476,6 +479,7 @@ items:
     pages: "145-148"
     year: 2018
     isbn: "9788560365272"
+    url: "https://portal.tcu.gov.br/governanca-em-tecnologia-de-informacao-e-comunicacao-para-o-setor-publico.htm"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
