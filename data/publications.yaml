@@ -5,6 +5,7 @@ items:
     event: "56th Hawaii International Conference on System Science"
     location: "Maui"
     year: 2023
+    url: "https://hdl.handle.net/10125/102787"
     keywords: ["learning_analytics", "sergio_freitas", "cristiane_ramos"]
     proceedings: "Proceedings of the 56th Hawaii International Conference on System Science"
 
@@ -14,6 +15,7 @@ items:
     event: "25th International Conference on Human-Computer Interaction"
     location: "Copenhagen"
     year: 2023
+    doi: "10.1007/978-3-031-35969-9_23"
     keywords: ["sergio_freitas", "gamification"]
     proceedings: "Proceedings of the 25th International Conference on Human-Computer Interaction"
 
@@ -32,6 +34,7 @@ items:
     event: "2023 IEEE ASEE Frontiers in Education"
     location: "Texas"
     year: 2023
+    doi: "10.1109/fie58773.2023.10343441"
     keywords: ["sergio_freitas", "gamification"]
     proceedings: "Proceedings of the 2023 IEEE ASEE Frontiers in Education"
 
@@ -113,6 +116,7 @@ items:
     edition: "1ed."
     year: 2022
     pages: "353-367"
+    doi: "10.1007/978-3-031-05544-7_27"
     keywords: ["sergio_freitas"]
 
   - type: "article"
@@ -122,6 +126,7 @@ items:
     volume: "9"
     pages: "41-49"
     year: 2022
+    url: "https://periodicos.se.df.gov.br/index.php/comcenso/article/view/1345"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -226,6 +231,7 @@ items:
     volume: "26"
     pages: "446-460"
     year: 2021
+    doi: "10.1590/s1414-40772021000200006"
     keywords: ["sergio_freitas"]
 
   - type: "book_section"
@@ -235,6 +241,7 @@ items:
     editor: "Cassiano Caon Amorim; Ariane Norma de Menezes Sá"
     publisher: "Editora UFPB"
     year: 2021
+    isbn: "9786599168932"
     pages: "210-239"
     keywords: ["sergio_freitas"]
 
@@ -286,7 +293,7 @@ items:
     authors: ["MOTA, V. F. S.", "GOMES, R. L.", "FREITAS, S. A. A."]
     event: "Workshop sobre Educação em Computação (WEI)"
     year: 2020
-    doi: "10.5753/WEI.2020.11138"
+    doi: "10.5753/wei.2020.11138"
     keywords: ["sergio_freitas"]
 
   - type: "article"
@@ -324,6 +331,7 @@ items:
     book_title: "Redes de Aprendizagem na EaD"
     publisher: "Atena Editora"
     year: 2019
+    doi: "10.1007/978-3-030-24308-1_11"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -332,6 +340,7 @@ items:
     event: "The 19th International Conference on Computational Science and its Applications"
     location: "Saint Petersburg, Russia"
     year: 2019
+    doi: "10.1007/978-3-030-24308-1_11"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -340,6 +349,7 @@ items:
     event: "Simpósio Brasileiro de Informática na Educação (SBIE)"
     location: "Brasilia"
     year: 2019
+    doi: "10.5753/cbie.sbie.2019.694"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -348,6 +358,7 @@ items:
     event: "XIX Colóquio Internacional de Gestão Universitária"
     location: "Florianópolis"
     year: 2019
+    url: "https://www.researchgate.net/publication/344419894_FORMAS_DE_INGRESSO_EM_PERSPECTIVA_COMPARADA_POR_QUE_O_SISU_AUMENTA_A_EVASAO_O_CASO_DA_UNB"
     keywords: ["sergio_freitas"]
 
   - type: "book"
@@ -393,6 +404,7 @@ items:
     volume: "16"
     pages: "1758"
     year: 2018
+    doi: "10.1109/tla.2018.8444396"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -410,6 +422,7 @@ items:
     volume: "9"
     pages: "248"
     year: 2018
+    doi: "10.3390/info9100248"
     keywords: ["sergio_freitas"]
 
   - type: "book chapter"
@@ -420,6 +433,7 @@ items:
     volume: "1"
     pages: "63-67"
     year: 2018
+    isbn: "9788560365272"
     keywords: ["sergio_freitas"]
 
   - type: "book chapter"
@@ -430,6 +444,16 @@ items:
     volume: "1"
     pages: "69-72"
     year: 2018
+    isbn: "9788560365272"
+    keywords: ["sergio_freitas"]
+
+  - type: "book"
+    authors: ["FIGUEIREDO, R.M.C.", "SANTOS, R.R.", "FREITAS, S. A. A."]
+    title: "Governança em tecnologia de informação e comunicação para o setor público"
+    publisher: "TCU"
+    year: 2018
+    isbn: "9788560365272"
+    url: "https://portal.tcu.gov.br/governanca-em-tecnologia-de-informacao-e-comunicacao-para-o-setor-publico.htm"
     keywords: ["sergio_freitas"]
 
   - type: "book chapter"
@@ -440,6 +464,7 @@ items:
     volume: "1"
     pages: "81-84"
     year: 2018
+    isbn: "9788560365272"
     keywords: ["sergio_freitas"]
 
   - type: "book chapter"
@@ -450,6 +475,7 @@ items:
     volume: "1"
     pages: "145-148"
     year: 2018
+    isbn: "9788560365272"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -458,6 +484,7 @@ items:
     event: "20th International Conference on Enterprise Information Systems"
     location: "Funchal"
     year: 2018
+    doi: "10.5220/0006664102030214"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -466,6 +493,7 @@ items:
     event: "XX ENCOINFO"
     location: "Palmas"
     year: 2018
+    url: "https://ulbra-to.br/encoinfo/edicoes/2018/artigos/gamificacao-aplicada-ao-desenvolvimento-de-software-analise-projeto-e-implantacao"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -474,6 +502,7 @@ items:
     event: "18th International Conference on Computational Science and Its Applications"
     location: "Melbourne - Australia"
     year: 2018
+    doi: "10.1007/978-3-319-95162-1_32"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -490,6 +519,7 @@ items:
     event: "XV Congresso Brasileiro de Ensino Superior a Distância"
     location: "Natal"
     year: 2018
+    url: "https://dokumen.tips/documents/programa-aprendizagem-para-o-3-milnio-a3m-essa-viso-de-cincia-balizou.html?page=1"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -498,6 +528,7 @@ items:
     event: "48th Annual Frontiers in Education (FIE)"
     location: "San Francisco"
     year: 2018
+    doi: "10.1109/FIE.2018.8658950"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -530,6 +561,7 @@ items:
     event: "19th International Conference on Human-Computer Interaction"
     location: "Vancouver"
     year: 2017
+    doi: "10.1007/978-3-319-58700-4_18"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -538,6 +570,7 @@ items:
     event: "Americas Conference on Information Systems 2017"
     location: "Boston - EUA"
     year: 2017
+    url: "https://aisel.aisnet.org/amcis2017/ITAgility/Presentations/1/"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -546,6 +579,7 @@ items:
     event: "2017 IEEE Frontiers in Education Conference (FIE)"
     location: "Indianapolis"
     year: 2017
+    doi: "10.1109/FIE.2017.8190499"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -554,6 +588,7 @@ items:
     event: "2017 IEEE Frontiers in Education Conference (FIE)"
     location: "Indianapolis"
     year: 2017
+    doi: "10.1109/FIE.2017.8190556"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -570,6 +605,7 @@ items:
     event: "XXVIII Simpósio Brasileiro de Informática na Educação SBIE"
     location: "Recife"
     year: 2017
+    doi: "10.5753/cbie.sbie.2017.1742"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -586,6 +622,7 @@ items:
     event: "2016 49th Hawaii International Conference on System Sciences (HICSS)"
     location: "Koloa"
     year: 2016
+    doi: "10.1109/HICSS.2016.17"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -594,6 +631,7 @@ items:
     event: "2016 IEEE 29th International Conference on Software Engineering Education and Training (CSEET)"
     location: "Dallas"
     year: 2016
+    doi: "10.1109/CSEET.2016.24"
     keywords: ["sergio_freitas", "george_marsicano"]
 
   - type: "conference"
@@ -602,6 +640,7 @@ items:
     event: "2016 IEEE 29th International Conference on Software Engineering Education and Training (CSEET)"
     location: "Dallas"
     year: 2016
+    doi: "10.1109/CSEET.2016.23"
     keywords: ["george_marsicano", "fabiana_mendes", "sergio_freitas"]
 
   - type: "conference"
@@ -610,6 +649,7 @@ items:
     event: "2016 IEEE Frontiers in Education Conference (FIE)"
     location: "Eire"
     year: 2016
+    doi: "10.1109/FIE.2016.7757708"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -618,6 +658,7 @@ items:
     event: "2016 IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA)"
     location: "Agadir"
     year: 2016
+    doi: "10.1109/AICCSA.2016.7945769"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -626,6 +667,7 @@ items:
     event: "XXVII Simpósio Brasileiro de Informática na Educação"
     location: "Uberlandia"
     year: 2016
+    doi: "10.5753/cbie.sbie.2016.510"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -634,6 +676,7 @@ items:
     event: "XXVII Simpósio Brasileiro de Informática na Educação"
     location: "Uberlandia"
     year: 2016
+    doi: "10.5753/cbie.sbie.2016.370"
     keywords: ["sergio_freitas"]
 
   - type: "conference"
@@ -642,6 +685,7 @@ items:
     event: "XXVII Simpósio Brasileiro de Informática na Educação"
     location: "Uberlandia"
     year: 2016
+    doi: "10.5753/cbie.sbie.2016.159"
     keywords: ["sergio_freitas", "fabiana_mendes"]
 
   - type: "conference"
@@ -650,6 +694,7 @@ items:
     event: "11th International Conference on Software Engineering Advances (ICSEA)"
     location: "Rome"
     year: 2016
+    url: "https://personales.upv.es/thinkmind/ICSEA/ICSEA_2016/icsea_2016_12_30_10096.html"
     keywords: ["sergio_freitas", "ricardo_ajax"]
 
   - type: "article"
@@ -704,4 +749,5 @@ items:
     event: "15th Computational Science and Its Applications (ICCSA)"
     location: "Banff - Canada"
     year: 2015
+    doi: "10.1007/978-3-319-21404-7_24"
     keywords: ["sergio_freitas"]

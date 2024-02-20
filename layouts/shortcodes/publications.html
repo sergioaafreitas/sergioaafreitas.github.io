@@ -38,7 +38,7 @@
         {{- if eq .type "article" -}}, {{ .journal }}{{- end -}}
         {{- if eq .type "book" -}}, {{ .publisher }}{{- end -}}
         {{- if .year -}}, {{ .year }}.{{- end -}}
-        {{- if .url -}} <a href="{{ .url }}" target="_blank">Disponível em: {{ .url }}</a>{{- end -}}
+        {{- if .url -}} <a href="{{ .url }}" target="_blank">URL: {{ .url }}</a>{{- end -}}
         {{- if .doi -}}. DOI: <a href="https://doi.org/{{ .doi }}" target="_blank">{{ .doi }}</a>{{- end -}}
       </li>
     {{ end }}
