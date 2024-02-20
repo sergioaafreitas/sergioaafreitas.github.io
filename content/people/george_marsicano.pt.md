@@ -22,7 +22,7 @@ tags:
 - Especialização em Sistemas Orientados a Objetos - Universidade Católica de Brasília (UCB/DF), Brasil (2002-2003).
 - Graduação em Processamento de Dados - Universidade Católica de Brasília (UCB/DF), Brasil (1998-2001)​​.
 ## Linhas de pesquisa
-{{< postsByCategories caput="" categories="knowledge_areas,george_marsicano" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,george_marsicano" >}}
 ## Qualificações Adicionais
 - Diplomado Internacional em Coaching em Contextos Organizacionais pela Universidad de Londres, México (2013-2014).
 - Coach certificado pela Escola Internacional de Coach - The Newfield Network​​.
@@ -30,6 +30,7 @@ tags:
 - Professor na UnB: Desde 2011, contribuindo para o ensino de graduação e pós-graduação em Engenharia de Software.
 - Linhas de Pesquisa: Educação na Engenharia de Software​​.
 ## Projetos de Pesquisa
+{{< postsByCategoriesTags categories="project,george_marsicano" >}}
 - Melhoria do Serviço Público Digital para o Cidadão (2023-Atual).
 - Transformação digital de serviços públicos do governo brasileiro (2020-2023).
 - HASE - Human Aspects in Software Engineering (2016-Atual).
@@ -56,3 +57,6 @@ tags:
 ## Contato e Informações Adicionais
 - Endereço Profissional: Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.
 - Lattes: [](http://lattes.cnpq.br/5685720614944773)[CV Lattes](http://lattes.cnpq.br/2317804591146328)
+
+## Publicações
+{{< publications year="" keywords="george_marsicano" notags="" >}}

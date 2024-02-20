@@ -24,9 +24,9 @@ tags:
 - Professor Adjunto na Universidade de Brasília desde 2011.
 - Disciplinas Ministradas: Engenharia de Requisitos, Verificação Validação e Testes de Software, Desenho de Software, Introdução a Ciência da Computação, Desenvolvimento Avançado de Software, Orientação a Objetos, Técnicas de Programação em Plataformas Emergentes​​.
 ## Linhas de Pesquisa
-{{< postsByCategories caput="" categories="knowledge_areas,andre_lanna" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,andre_lanna" >}}
 ## Projetos de Pesquisa
-{{< postsByCategories categories="project,andre_lanna" >}}
+{{< postsByCategoriesTags categories="project,andre_lanna" >}}
 - Laboratório Fábrica de Software: Projeto de pesquisa e desenvolvimento iniciado em 2018 na Universidade de Brasília.
 ## Orientações
 ### Atuais
@@ -53,3 +53,6 @@ tags:
 - Endereço Profissional: Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.
 - Lattes: [CV Lattes](http://lattes.cnpq.br/5685720614944773)
 - Orcid ID: [Orcid Profile](https://orcid.org/0000-0003-4200-6569)
+
+## Publicações
+{{< publications year="" keywords="andre_lanna" notags="" >}}

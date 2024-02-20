@@ -24,9 +24,9 @@ tags:
 - Associate Professor at the University of Brasília since 2011.
 - Courses Taught: Requirements Engineering, Verification Validation and Software Testing, Software Design, Introduction to Computer Science, Advanced Software Development, Object Orientation, Programming Techniques on Emerging Platforms.
 ## Research Lines
-{{< postsByCategories caput="" categories="knowledge_areas,andre_lanna" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,andre_lanna" >}}
 ## Research Projects
-{{< postsByCategories categories="project,andre_lanna" >}}
+{{< postsByCategoriesTags categories="project,andre_lanna" >}}
 - Software Factory Laboratory: Research and development project initiated in 2018 at the University of Brasília.
 ## Guidance
 ### Actual
@@ -53,3 +53,6 @@ tags:
 - Professional Address: University of Brasília, UnB Gama Campus, Brasília - DF, Brazil.
 - Lattes: [CV Lattes](http://lattes.cnpq.br/5685720614944773)
 - Orcid ID: [Orcid Profile](https://orcid.org/0000-0003-4200-6569)
+
+## Publications
+{{< publications year="" keywords="andre_lanna" notags="" >}}

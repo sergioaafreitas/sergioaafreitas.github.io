@@ -22,7 +22,7 @@ tags:
 - Master’s in Computer Science - Federal University of Goiás (UFG), Brazil (2008-2010).
 - Bachelor’s in Computer Science - Federal University of Goiás (UFG), Brazil (2004-2008).
 ## Research Lines
-{{< postsByCategories caput="" categories="knowledge_areas,fabiana_mendes" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,fabiana_mendes" >}}
 ## Additional Training
 - Management and Tutor Training - Federal University of Mato Grosso (UFMT), Brazil (2011).
 - MR-MPS.BR Implementers and Introduction to MPS.BR - Brazilian Software Excellence Promotion Society (SOFTEX), Brazil (2006-2007).
@@ -30,7 +30,7 @@ tags:
 - Institutional Affiliation: University of Brasília (UnB) since 2011.
 - Courses Taught: Experimental Software Engineering, Mathematical Structures for Computing, Fundamentals of Software Quality, Software Process Improvement, among others.
 ## Research Projects
-{{< postsByCategories categories="project,fabiana_mendes" >}}
+{{< postsByCategoriesTags categories="project,fabiana_mendes" >}}
 - Human factors in cybersecurity (2022-Present).
 - Creation and usability evaluation of an app on Parkinson's Disease (2020-Present).
 - These projects explore topics such as cybersecurity, digital health, and usability.
@@ -59,3 +59,6 @@ tags:
 - Professional Address: University of Brasília, UnB Gama Campus, Brasília - DF, Brazil.
 - Lattes iD: [CV Lattes](http://lattes.cnpq.br/7675506667619564)
 - Orcid iD: [Orcid Profile](https://orcid.org/0000-0002-1724-2044)
+
+## Publications
+{{< publications year="" keywords="fabiana_mendes" notags="" >}}

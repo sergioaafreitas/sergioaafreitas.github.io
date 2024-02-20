@@ -22,7 +22,7 @@ tags:
 - Mestrado em Gestão do Conhecimento e Tecnologia da Informação - Universidade Católica de Brasília (2002-2004).
 - Graduação em Ciência da Computação - Universidade Católica de Brasília (1993-1996)​​.
 ## Linhas de Pesquisa
-{{< postsByCategories caput="" categories="knowledge_areas,cristiane_ramos" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,cristiane_ramos" >}}
 ## Formação Complementar
 - Diversas formações complementares, incluindo Metodologia Científica, Elaboração de Conteúdo para EAD, Neurociência na Docência, entre outras​​.
 ## Experiência Profissional e Docência
@@ -30,7 +30,7 @@ tags:
 - Experiência anterior: Professora nas Faculdades Integradas do UniCESP (2005-2007), ministrando Gerência da Qualidade​​.
 
 ## Projetos de Pesquisa
-{{< postsByCategories categories="project,cristiane_ramos" >}}
+{{< postsByCategoriesTags categories="project,cristiane_ramos" >}}
 - Automação de Serviços Públicos no âmbito da Transformação dos Serviços: Projeto de pesquisa e desenvolvimento na parceria UnB - Ministério do Planejamento (2017-2020).
 - Métricas de Software para apoio a Gestão em Empresas (2002-2005)​​.
 ## Orientações
@@ -62,3 +62,6 @@ tags:
 - Endereço Profissional: Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.
 - Lattes: [CV Lattes](http://lattes.cnpq.br/9950213660160161)
 - ​​Orcid ID: [Orcid Profile](https://orcid.org/0000-0002-6235-5590)
+
+## Publicações
+{{< publications year="" keywords="cristiane_ramos" notags="" >}}

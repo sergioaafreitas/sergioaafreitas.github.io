@@ -22,7 +22,7 @@ tags:
 - Specialization in Object-Oriented Systems - Catholic University of Brasília (UCB/DF), Brazil (2002-2003).
 - Bachelor’s in Data Processing - Catholic University of Brasília (UCB/DF), Brazil (1998-2001).
 ## Research Lines
-{{< postsByCategories caput="" categories="knowledge_areas,george_marsicano" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,george_marsicano" >}}
 ## Additional Qualifications
 - International Diploma in Coaching in Organizational Contexts by the University of London, Mexico (2013-2014).
 - Certified Coach by the International School of Coaching - The Newfield Network.
@@ -30,6 +30,7 @@ tags:
 - Professor at UnB: Since 2011, contributing to undergraduate and graduate teaching in Software Engineering.
 - Research Lines: Software Engineering Education.
 ## Research Projects
+{{< postsByCategoriesTags categories="project,george_marsicano" >}}
 - Improving Digital Public Service for Citizens (2023-Present).
 - Digital transformation of Brazilian government public services (2020-2023).
 - HASE - Human Aspects in Software Engineering (2016-Present).
@@ -56,3 +57,6 @@ tags:
 ## Contact and Additional Information
 - Professional Address: University of Brasília, UnB Gama Campus, Brasília - DF, Brazil.
 - Lattes: [CV Lattes](http://lattes.cnpq.br/2317804591146328)
+
+## Publications
+{{< publications year="" keywords="george_marsicano" notags="" >}}

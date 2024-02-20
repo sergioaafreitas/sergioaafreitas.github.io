@@ -32,13 +32,13 @@ tags:
 - Bachelor's in Electrical Engineering (emphasis in electronics) - Federal University of Uberlândia (UFU), Brazil (1985-1990).
 
 ## Research Areas
-{{< postsByCategories caput="" categories="knowledge_areas,sergio_freitas" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,sergio_freitas" >}}
 
 ## Contributions and Acknowledgments
 - Awards: Multiple times honored and patron of classes at UnB and UFES.
 - Publications: Author and co-author of several scientific articles and books, recognized on platforms such as Web of Science and SCOPUS.
 ## Current Projects
-{{< postsByCategories categories="project,sergio_freitas" >}}
+{{< postsByCategoriesTags categories="project,sergio_freitas" >}}
 
 ## Guidance
 ### Actual
@@ -61,3 +61,7 @@ tags:
 - Email: [sergiofreitas@unb.br](mailto:sergiofreitas@unb.br)
 - Lattes: {{< link-interno "http://lattes.cnpq.br/0395549254894676" "CV Lattes" >}}
 - Orcid ID: {{< link-interno "https://orcid.org/0000-0003-3996-4985" "Orcid Profile" >}}
+
+
+## Publications
+{{< publications year="" keywords="sergio_freitas" notags="" >}}

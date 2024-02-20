@@ -23,9 +23,9 @@ tags:
 ## Professional Experience and Teaching
 - Associate Professor at the University of Brasília: Since 2022, teaching courses such as Fundamentals of Operating Systems and Algorithms and Computer Programming.
 ## Research Lines
-{{< postsByCategories caput="" categories="knowledge_areas,daniel_sundfeld" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,daniel_sundfeld" >}}
 ## Research Projects
-{{< postsByCategories categories="project,daniel_sundfeld" >}}
+{{< postsByCategoriesTags categories="project,daniel_sundfeld" >}}
 - [Laguna - Open Informational Infrastructure and Data Lake](https://www.cedis.unb.br/projetos/laguna-cloud) (2022-Present).
 - Cloud IoT and Distributed Systems (2020-2022).
 - BioCloud - A Framework for the Execution of Biotechnology Applications on Several Platforms of the Amazon AWS Cloud (2020-2022).
@@ -56,3 +56,6 @@ tags:
 - Professional Address: University of Brasília, UnB Gama Campus, Brasília - DF, Brazil.
 - Lattes: [CV Lattes](http://lattes.cnpq.br/2619423058109475)
 - Orcid iD: [Orcid Profile](https://orcid.org/0000-0002-5147-3698)
+
+## Publications
+{{< publications year="" keywords="daniel_sundfeld" notags="" >}}

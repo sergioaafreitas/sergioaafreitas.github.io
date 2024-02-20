@@ -15,18 +15,17 @@ tags:
 ---
 ## Perfil Acadêmico e Profissional
 - Posição Atual: Professor da [Universidade de Brasília](https://www.unb.br/) (UnB), atuando no curso de graduação em [Engenharia de Software](http://software.unb.br/). 
-- Áreas de Atuação: Engenharia de Software, Qualidade de Software, Métricas de Software, [Testes de Software](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/verifica%C3%A7%C3%A3o-valida%C3%A7%C3%A3o-e-testes), Qualidade e Produtividade em Desenvolvimento de Software, [Métodos e Técnicas de Ensino](https://www.cedis.unb.br/o-cedis/%C3%A1reas-de-pesquisa/metodologias-ativas-no-ensino-superior)​​.
 ## Formação Acadêmica
 - Doutorado em andamento - Desenvolvimento, Sociedade e Cooperação Internacional, Universidade de Brasília (2020-Presente).
 - Mestrado Profissional - Gestão do Conhecimento e Tecnologia da Informação, Universidade Católica de Brasília (2003-2005).
 - Especializações: Engenharia de Software, Análise de Sistemas.
 - Graduação em Engenharia Elétrica - Universidade de Brasília (1977-1981)​​.
 ## Linhas de pesquisa
-{{< postsByCategories caput="" categories="knowledge_areas,ricardo_ajax" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,ricardo_ajax" >}}
 ## Experiência Profissional
 - Professor na Universidade de Brasília: Ministrando disciplinas como Melhoria de Processo de Software, Técnicas de Medição Funcional e Estimativas de Software, Verificação e Validação de Software​​.
 ## Projetos de Pesquisa
-{{< postsByCategories categories="project,ricardo_ajax" >}}
+{{< postsByCategoriesTags categories="project,ricardo_ajax" >}}
 - Desenvolvimento e Inovação para Automação de Serviços Públicos no âmbito da Transformação dos Serviços (2017-2020).
 - Projeto de Pesquisa em Dimensionamento da Capacidade Produtiva - Modelagem Matemática, Ministério do Planejamento (2017-2019).
 - Pesquisa e Desenvolvimento do Modelo de Gestão do Desempenho Individual da Companhia Nacional de Abastecimento - CONAB (2016-2017)​​## Orientações
@@ -56,3 +55,6 @@ tags:
 ## Contato e Informações Adicionais
 - Endereço Profissional: Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.
 - Lattes iD: [CV Lattes](http://lattes.cnpq.br/8309011123228244)
+
+## Publicações
+{{< publications year="" keywords="ricardo_ajax" notags="" >}}

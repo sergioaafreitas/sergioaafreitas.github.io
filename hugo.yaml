@@ -135,7 +135,7 @@ languages:
           pre: stars # can be stars, comments or piechart
           name: Publicações
           post: "Artigos, livros e outros"
-          url: "#"
+          url: "/publications/"
           weight: 10
         - identifier: progrs
           pre: comments # can be stars, comments or piechart
@@ -301,7 +301,7 @@ languages:
           pre: stars # can be stars, comments or piechart
           name: Publications
           post: "Articles, books, and others"
-          url: "#"
+          url: "/publications/"
           weight: 10
         - identifier: progrs
           pre: comments # can be stars, comments or piechart

@@ -1,0 +1,702 @@
+items:
+  - type: "conference"
+    title: "A systematic review of the factors that impact the prediction of retention and dropout in higher education"
+    authors: ["SILVA, E. C.", "FREITAS, S. A. A.", "RAMOS, C. S.", "MENEZES, A. E. M.", "ARAUJO, L. K. S. R."]
+    event: "56th Hawaii International Conference on System Science"
+    location: "Maui"
+    year: 2023
+    keywords: ["learning_analytics", "sergio_freitas"]
+    proceedings: "Proceedings of the 56th Hawaii International Conference on System Science"
+
+  - type: "conference"
+    title: "Gamification in Organizational Contexts: A Systematic Literature Review"
+    authors: ["ASSIS, L. S.", "FREITAS, S. A. A."]
+    event: "25th International Conference on Human-Computer Interaction"
+    location: "Copenhagen"
+    year: 2023
+    keywords: ["sergio_freitas", "gamification"]
+    proceedings: "Proceedings of the 25th International Conference on Human-Computer Interaction"
+
+  - type: "book"
+    title: "Indicadores de aprendizagem"
+    authors: ["RAMOS, C. S.", "VIANNA, D. M.", "BESSA, E.", "MORTARI, M. R.", "FREITAS, S. A. A."]
+    publisher: "Biblioteca Central da Universidade de Brasília"
+    pages: "79"
+    year: 2023
+    url: "https://livros.unb.br/index.php/portal/catalog/book/442"
+    keywords: ["learning_analytics", "sergio_freitas", "cristiane_ramos"]
+
+  - type: "conference"
+    title: "Gamification project to receive continuous feedback in the context of the evolution of public service for lawyers"
+    authors: ["ERVEN, R. V.", "JUBE, D.", "SANTOS, H.", "FREITAS, S. A. A.", "CANEDO, E. D."]
+    event: "2023 IEEE ASEE Frontiers in Education"
+    location: "Texas"
+    year: 2023
+    keywords: ["sergio_freitas", "gamification"]
+    proceedings: "Proceedings of the 2023 IEEE ASEE Frontiers in Education"
+
+  - type: "article"
+    title: "Usability study of a smartphone app entitled: Living with Parkinson’s disease"
+    authors: ["RODRIGUES PEREIRA, NAIRA RÚBIA", "CELESTE, LETÍCIA CORRÊA", "BARROS DE SALES, ANDRÉ", "Mendes, Fabiana Freitas", "BARBOSA FURIA, CRISTINA LEMOS"]
+    journal: "HELIYON"
+    volume: "9"
+    pages: "e17572"
+    year: 2023
+    keywords: ["healthcare", "fabiana_mendes"]
+
+  - type: "conference"
+    title: "Investigating the Perceived Impact of Maternity on Software Engineering: a Women’s Perspective"
+    authors: ["ROCHA, LARISSA", "CANEDO, EDNA DIAS", "PINTO PEREIRA, CLAUDIA", "BEZERRA, CARLA", "Mendes, Fabiana Freitas"]
+    event: "2023 IEEE/ACM 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)"
+    location: "Melbourne"
+    year: 2023
+    keywords: ["esw", "fabiana_mendes"]
+    pages: "138"
+
+  - type: "conference"
+    title: "Do you see what happens around you? Men's Perceptions of Gender Inequality in Software Engineering"
+    authors: ["CANEDO, EDNA DIAS", "SOARES, LARISSA", "SILVA, GEOVANA RAMOS SOUSA", "SANTOS, VERÔNICA SOUZA DOS", "Mendes, Fabiana Freitas"]
+    event: "SBES 2023: XXXVII Brazilian Symposium on Software Engineering"
+    location: "Campo Grande Brazil"
+    year: 2023
+    keywords: ["esw", "fabiana_mendes"]
+    pages: "464"
+
+  - type: "workshop"
+    title: "Avaliação de Conhecimento em Engenharia de Requisitos no Startup Gov.br"
+    authors: ["ERVEN, RICARDO CORDEIRO GALVÃO SANTANA VAN", "DIAS, POLLYANNA C. O.", "JUBÉ, DEMÉTRIUS DE ALMEIDA", "CORRÊA, GEORGE MARSICANO", "CANEDO, EDNA DIAS"]
+    event: "Workshop on Requirements Engineering"
+    location: "Porto Alegre"
+    year: 2023
+    keywords: ["software_requirements", "george_marsicano"]
+    
+  - type: "conference"
+    title: "Digital Transformation of Public Services from the Perception of ICT Practitioners in a Startup-Based Environment"
+    authors: ["MARSICANO, GEORGE", "CANEDO, EDNA", "PEDROSA, GLAUCO", "RAMOS, CRISTIANE", "FIGUEIREDO, REJANE"]
+    event: "25th International Conference on Enterprise Information Systems"
+    location: "Prague"
+    year: 2023
+    keywords: ["digital_transformation", "george_marsicano", "cristiane_ramos"]
+    pages: "490"
+
+  - type: "workshop"
+    title: "LLC: Low Level Contêiner no Linux"
+    authors: ["FLAUSINO, CAIO GOMES", "QUEIROZ, DIEGO CÉSAR FLORÊNCIO DE", "Sundfeld, Daniel"]
+    event: "Escola Regional de Alto Desempenho do Centro-Oeste"
+    location: "Brasil"
+    year: 2023
+    keywords: ["hpc", "daniel_sundfeld"]
+    pages: "29-31"
+
+  - type: "article"
+    title: "Defining Digital Legacy Management Systems' Requirements."
+    authors: ["MACIEL, C.", "MENDES, F. F.", "PEREIRA, V. C.", "YAMAUCHI, E. A."]
+    journal: "LECTURE NOTES IN BUSINESS INFORMATION PROCESSING"
+    volume: "LNBIP 455"
+    pages: "256-279"
+    year: 2022
+    keywords: ["fabiana_mendes"]
+
+  - type: "article"
+    title: "Value-Based Software Engineering: A Systematic Mapping Study"
+    authors: ["SALLEH, NORSAREMAH", "MENDES, EMILIA", "MENDES, FABIANA", "LEKAMLAGE, CHARITHA", "PETERSEN, KAI"]
+    journal: "SSRN Electronic Journals: The English & Commonwealth Law Abstracts Journal"
+    volume: "1"
+    pages: "1"
+    year: 2022
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "Evaluation of the Change in the Quality of Reports with the Application of Gamification in a Corporative Institution"
+    authors: ["CAVALCANTI, P. P.", "FREITAS, S. A. A."]
+    event: "Proceedings of the 24th International Conference on Human-Computer Interaction"
+    edition: "1ed."
+    year: 2022
+    pages: "353-367"
+    keywords: ["sergio_freitas"]
+
+  - type: "article"
+    title: "Escolha Estratégica em Processos Seletivos: análises da alteração de opção inicial de candidatos no SISUnB, e seus efeitos na evasão"
+    authors: ["CABELLO, A. F.", "ARRUDA, J. A.", "IMBROISI, D.", "FERREIRA, G. V.", "FREITAS, SERGIO A. A."]
+    journal: "REVISTA COM CENSO ESTUDOS EDUCACIONAIS DO DISTRITO FEDERAL"
+    volume: "9"
+    pages: "41-49"
+    year: 2022
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Identification and Applicability of Additional Security Factors on the GOV.BR Digital Identity Platform"
+    authors: ["FURTADO, S. L.", "MARSICANO, G. C."]
+    event: "19th CONTECSI - International Conference on Information Systems and Technology Management"
+    location: "São Paulo"
+    year: 2022
+    keywords: ["george_marsicano"]
+
+  - type: "conference"
+    title: "Proposição de Melhoria de Usabilidade da Interação entre Usuário e Sistema Corporativo"
+    authors: ["MOURA, D. R. C.", "MARSICANO, G. C."]
+    event: "19th CONTECSI - International Conference on Information Systems and Technology Management"
+    location: "São Paulo"
+    year: 2022
+    keywords: ["george_marsicano"]
+
+  - type: "conference"
+    title: "GreenGame: Solving the climate crisis in a Game to actually take action in real life"
+    authors: ["COSTA CÉSAR, ANA CAROLINA", "DA GAMA PIVETTA, GABRIELA", "Mendes, Fabiana Freitas"]
+    event: "2022 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)"
+    location: "Melbourne"
+    year: 2022
+    pages: "1"
+    keywords: ["fabiana_mendes"]
+
+  - type: "workshop"
+    title: "PT4Researchers: uma ferramenta web para coleta e processamento de dados de personalidade"
+    authors: ["SILVA, M. V. S.", "Mendes, Fabiana Freitas", "SALES, A. B."]
+    event: "Wokshop de Iniciação Científica - Simpósio Brasileiro de Sistemas de Informação"
+    location: "Curitiba-PR"
+    year: 2022
+    pages: "13-16"
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "MyStory: um protótipo de sistema com vistas à imortalidade digital"
+    authors: ["SOUZA, RENAN L. L. DE", "MACIEL, CRISTIANO", "NUNES, EUNICE P. DOS SANTOS", "Mendes, Fabiana Freitas", "RIBEIRO, AILTON"]
+    event: "Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais"
+    location: "Brasil"
+    year: 2022
+    pages: "60"
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "Behavior-Driven Development applied in Agile Teams of a Financial Institution"
+    authors: ["OLIVEIRA, E. G.", "MARSICANO, G. C."]
+    event: "Congresso Brasileiro de Engenharia de Software - CBSoft"
+    location: "Curitiba"
+    year: 2022
+    keywords: ["george_marsicano"]
+
+  - type: "workshop"
+    title: "PA-Star-Web: web server para obtenção do alinhamento múltiplo ótimo de sequências biológicas"
+    authors: ["DE OLIVEIRA, ENÉIAS PAULO", "Sundfeld, Daniel"]
+    event: "Escola Regional de Informática de Goiás"
+    location: "Brasil"
+    year: 2022
+    pages: "189-192"
+    keywords: ["daniel_sundfeld"]
+
+  - type: "article"
+    title: "Insights on the relationship between decision-making style and personality in Software Engineering"
+    authors: ["MENDES, F. F.", "MENDES, EMÍLIA", "SALLEH, NORSAREMAH", "OIVO, MARKKU"]
+    journal: "INFORMATION AND SOFTWARE TECHNOLOGY"
+    volume: "136"
+    pages: "106586"
+    year: 2021
+    keywords: ["fabiana_mendes"]
+
+  - type: "article"
+    title: "Aspectos de qualidade em jogos sérios digitais"
+    authors: ["A. SOUSA E SILVA, MATEUS", "BARROS DE SALES, ANDRÉ", "MENDES, F. F."]
+    journal: "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO"
+    volume: "19"
+    pages: "207-216"
+    year: 2021
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "Digital Legacy Management Systems: Theoretical, Systemic and User’s Perspective"
+    authors: ["YAMAUCHI, EDUARDO", "MACIEL, CRISTIANO", "MENDES, FABIANA", "UEDA, GUSTAVO", "PEREIRA, VINICIUS"]
+    event: "23rd International Conference on Enterprise Information Systems"
+    year: 2021
+    pages: "41"
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "Breaking one barrier at a time: how women developers cope in a men-dominated industry"
+    authors: ["CANEDO, EDNA DIAS", "MENDES, FABIANA", "CERQUEIRA, ANDERSON", "OKIMOTO, MARCIO", "PINTO, GUSTAVO", "BONIFACIO, RODRIGO"]
+    event: "SBES '21: Brazilian Symposium on Software Engineering"
+    location: "Joinville Brazil"
+    year: 2021
+    pages: "378"
+    keywords: ["fabiana_mendes"]
+
+  - type: "article"
+    title: "Formas de ingresso em perspectiva comparada: por que o SISU aumenta a evasão? O caso da UNB"
+    authors: ["CABELLO, A. F.", "FERREIRA, G. V.", "IMBROISI, D.", "ARRUDA, J. A.", "FREITAS, S. A. A.", "ALVAREZ, G. A."]
+    journal: "AVALIAÇÃO: REVISTA DA AVALIAÇÃO DA EDUCAÇÃO SUPERIOR"
+    volume: "26"
+    pages: "446-460"
+    year: 2021
+    keywords: ["sergio_freitas"]
+
+  - type: "book_section"
+    title: "Programa Aprendizagem para o 3º Milênio (A3M)"
+    authors: ["MELO, L. V. S. E.", "NOGUEIRA, T. J. A. M.", "LEITE, L. L.", "FREITAS, S. A. A."]
+    book_title: "Experiências Inovadoras em Resposta aos Desafios da Educação Superior no Brasil"
+    editor: "Cassiano Caon Amorim; Ariane Norma de Menezes Sá"
+    publisher: "Editora UFPB"
+    year: 2021
+    pages: "210-239"
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "CUDA-Sankoff-Web: Uma ferramenta web para cálculo do alinhamento secundário estrutural ótimo"
+    authors: ["GOMES, RODRIGO ROCHA", "Sundfeld, Daniel"]
+    event: "Escola Regional de Alto Desempenho de São Paulo"
+    year: 2021
+    pages: "25-28"
+    keywords: ["daniel_sundfeld"]
+
+  - type: "article"
+    title: "Aspectos de qualidade em jogos sérios digitais"
+    authors: ["A. SOUSA E SILVA, MATEUS", "BARROS DE SALES, ANDRÉ", "FREITAS MENDES, FABIANA"]
+    journal: "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO"
+    volume: "19"
+    pages: "207-216"
+    year: 2021
+    keywords: ["fabiana_mendes"]
+
+  - type: "article"
+    title: "The Teamwork Process Antecedents (TPA) Questionnaire: Developing and Validating a Comprehensive Measure for Assessing Antecedents of Teamwork Process Quality"
+    authors: ["MARSICANO, G. C.", "DA SILVA, FABIO Q. B.", "SEAMAN, C. B.", "ADAID-CASTRO, B. G."]
+    journal: "EMPIRICAL SOFTWARE ENGINEERING (DORDRECHT. ONLINE)"
+    volume: "10664"
+    pages: "1-45"
+    year: 2020
+    keywords: ["george_marsicano"]
+
+  - type: "conference"
+    title: "Teamwork Quality and Team Success in Software Development: A Non-exact Replication Study"
+    authors: ["BATISTA, A. C. D.", "SOUZA, R. M.", "SILVA, F. Q. B.", "MELO, L. A.", "MARSICANO, G. C."]
+    event: "Empirical Software Engineering and Measurement (ESEM)"
+    location: "Bari"
+    year: 2020
+    keywords: ["george_marsicano"]
+
+  - type: "conference"
+    title: "NatVi - A Framework for Agile Software Development, Service-oriented Architecture and Quality Assurance"
+    authors: ["CHAVES, J. T. F.", "FREITAS, S. A. A."]
+    event: "20th International Conference on Computational Science and its Applications"
+    location: "Cagliari, Italia"
+    year: 2020
+    keywords: ["sergio_freitas"]
+
+  - type: "workshop"
+    title: "Internet das Coisas como Plataforma Multidisciplinar de Aprendizagem: Projetos Integradores Hardware/Software"
+    authors: ["MOTA, V. F. S.", "GOMES, R. L.", "FREITAS, S. A. A."]
+    event: "Workshop sobre Educação em Computação (WEI)"
+    year: 2020
+    keywords: ["sergio_freitas"]
+
+  - type: "article"
+    title: "Using GPU to accelerate the pairwise structural RNA alignment with base pair probabilities"
+    authors: ["Sundfeld, Daniel", "TEODORO, GEORGE", "HAVGAARD, JAKOB H.", "GORODKIN, JAN", "Melo, Alba C. M. A."]
+    journal: "CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE"
+    volume: "32"
+    pages: "e5468"
+    year: 2020
+    keywords: ["daniel_sundfeld"]
+
+  - type: "article"
+    title: "The relationship between personality and decision-making: A Systematic literature review"
+    authors: ["MENDES, F. F.", "MENDES, EMILIA", "SALLEH, NORSAREMAH"]
+    journal: "INFORMATION AND SOFTWARE TECHNOLOGY"
+    volume: "111"
+    pages: "50-71"
+    year: 2019
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "A systematic mapping study of value-based software engineering"
+    authors: ["Salleh, N.", "MENDES, F. F.", "Mendes, E."]
+    event: "45th EUROMICRO Conference on Software Engineering and Advanced Applications"
+    location: "Grécia"
+    year: 2019
+    keywords: ["fabiana_mendes"]
+
+  - type: "book chapter"
+    title: "PROGRAMA APRENDIZAGEM PARA O 3º MILÊNIO (A3M): PROMOVENDO A INSTITUCIONALIZAÇÃO DE AÇÕES INOVADORAS NA UNB"
+    authors: ["Nogueira, Teresinha de Jesus Araújo Magalhães", "Melo, Lívia Veleda de Sousa e", "FREITAS, S. A. A.", "Leite, Letícia Lopes", "Macedo, Harineide Madeira"]
+    book_title: "Redes de Aprendizagem na EaD"
+    publisher: "Atena Editora"
+    year: 2019
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "A Systematic Literature Review for Service-oriented Architecture and Agile Development"
+    authors: ["CHAVES, J. T. F.", "FREITAS, S. A. A."]
+    event: "The 19th International Conference on Computational Science and its Applications"
+    location: "Saint Petersburg, Russia"
+    year: 2019
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Uso do algoritmo Apriori na avaliação da motivação em uma gamificação"
+    authors: ["LEMES, R. F.", "FREITAS, S. A. A."]
+    event: "Simpósio Brasileiro de Informática na Educação (SBIE)"
+    location: "Brasilia"
+    year: 2019
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Formas de Ingresso em Perspectiva Comparada: Porque o Sisu aumenta a evasão - o caso da UnB"
+    authors: ["CABELLO, A. F.", "FERREIRA, G. V.", "IMBROISI, D.", "ARRUDA, J. A.", "FREITAS, S. A. A.", "ALVAREZ, G. A."]
+    event: "XIX Colóquio Internacional de Gestão Universitária"
+    location: "Florianópolis"
+    year: 2019
+    keywords: ["sergio_freitas"]
+
+  - type: "book"
+    title: "Processo de Aprendizagem Conversacional para a Elicitação de Requisitos: Uma nova possibilidade para a construção de relações entre engenheiro de software e seus stakeholders"
+    authors: ["MARSICANO, G. C."]
+    publisher: "Novas Ediçoes Acadêmicas"
+    volume: "200"
+    pages: "229"
+    year: 2018
+    keywords: ["george_marsicano"]
+
+  - type: "conference"
+    title: "An initial understanding of task interdependence in software engineering"
+    authors: ["MARSICANO, G. C.", "DE OLIVEIRA, VICTOR L.", "DE S. MARIZ, LEILA M. R.", "DA SILVA, FABIO Q. B."]
+    event: "the 11th International Workshop"
+    location: "Gothenburg"
+    year: 2018
+    proceedings: "Proceedings of the 11th International Workshop on Cooperative and Human Aspects of Software Engineering - CHASE '18"
+    keywords: ["george_marsicano"]
+
+  - type: "article"
+    title: "All roads lead to Rome: Commuting strategies for product-line reliability analysis"
+    authors: ["CASTRO, THIAGO", "LANNA, ANDRÉ", "ALVES, VANDER", "TEIXEIRA, LEOPOLDO", "APEL, SVEN", "SCHOBBENS, PIERRE-YVES"]
+    journal: "SCIENCE OF COMPUTER PROGRAMMING"
+    volume: "152"
+    pages: "116-160"
+    year: 2018
+    keywords: ["andre_lanna"]
+
+  - type: "article"
+    title: "Feature-family-based reliability analysis of software product lines"
+    authors: ["LANNA, ANDRÉ", "CASTRO, THIAGO", "ALVES, VANDER", "RODRIGUES, GENAINA", "SCHOBBENS, PIERRE-YVES", "APEL, SVEN"]
+    journal: "INFORMATION AND SOFTWARE TECHNOLOGY"
+    volume: "94"
+    pages: "59-81"
+    year: 2018
+    keywords: ["andre_lanna"]
+
+  - type: "article"
+    title: "Calculating Similarity of Curriculum Lattes"
+    authors: ["FREITAS, S. A. A.", "CANEDO, E. D.", "JESUS, D. A."]
+    journal: "IEEE Latin America Transactions"
+    volume: "16"
+    pages: "1758"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Why there is still few women in Engineering? A perspective from female students and professors in an Engineering campus"
+    authors: ["Canedo, E. D.", "Santos, G. A.", "MENDES, F. F.", "VENSON, E.", "FIGUEIREDO, R. M. C."]
+    event: "48th Annual Frontiers in Education (FIE) Conference (FIE 2018)"
+    location: "San Jose, CA, USA"
+    year: 2018
+    keywords: [ "fabiana_mendes"]
+
+  - type: "article"
+    title: "Analysis of the Risk Management Process on the Development of the Public Sector Information Technology Master Plan"
+    authors: ["FREITAS, S. A. A.", "CANEDO, EDNA", "SANTOS FELISDÓRIO, RODRIGO", "LEÃO, HELOISE"]
+    journal: "INFORMATION"
+    volume: "9"
+    pages: "248"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "book chapter"
+    title: "Gestão de Continuidade de Serviços de TI: Site de Contingência"
+    authors: ["DANTAS, J. M.", "FREITAS, S. A. A."]
+    book_title: "Governança em tecnologia de informação e comunicação para o setor público"
+    publisher: "TCU"
+    volume: "1"
+    pages: "63-67"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "book chapter"
+    title: "Identificação de riscos em fiscalizações de obras públicas realizadas pelo TCU e o papel da tecnologia da informação em mitigá-los"
+    authors: ["POLETTO, J. A. R.", "FREITAS, S. A. A."]
+    book_title: "Governança em tecnologia de informação e comunicação para o setor público"
+    publisher: "TCU"
+    volume: "1"
+    pages: "69-72"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "book chapter"
+    title: "Gestão de riscos e governança de TI aplicada à rede de comunicação governamental"
+    authors: ["MARTINS, L. B.", "FREITAS, S. A. A."]
+    book_title: "Governança em tecnologia de informação e comunicação para o setor público"
+    publisher: "TCU"
+    volume: "1"
+    pages: "81-84"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "book chapter"
+    title: "Análise do processo de gestão de riscos na elaboração do plano diretor de tecnologia da informação – PDTI no setor público"
+    authors: ["FELISDORIO, R. C. S.", "FREITAS, S. A. A."]
+    book_title: "Governança em tecnologia de informação e comunicação para o setor público"
+    publisher: "TCU"
+    volume: "1"
+    pages: "145-148"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Similarities Building a Network between Researchers based on the Curriculum Lattes Platform"
+    authors: ["COSTA OLIVEIRA, EDGARD", "ALVES DE JESUS, DIONLAN", "FREITAS, S. A. A.", "DIAS CANEDO, EDNA"]
+    event: "20th International Conference on Enterprise Information Systems"
+    location: "Funchal"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Gamificação aplicada ao desenvolvimento de software: Análise e Projeto"
+    authors: ["LEAO, H. A. T.", "SOUZA, R. V. F.", "MACIEL, A. A. F.", "FREITAS, S. A. A.", "CANEDO, E. D."]
+    event: "XX ENCOINFO"
+    location: "Palmas"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "An Implementation of the OAuth 2.0 for an Enterprise Service Bus"
+    authors: ["RIBEIRO, A. S.", "CANEDO, E. D.", "FREITAS, S. A. A."]
+    event: "18th International Conference on Computational Science and Its Applications"
+    location: "Melbourne - Australia"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Programa A3M: construção e socialização de ações pedagógicas inovadoras na UNB"
+    authors: ["MELO, L. V. S. E.", "NOGUEIRA, T. J.", "FREITAS, S. A. A.", "LEITE, L. L."]
+    event: "X Simpósio Nacional de Educação"
+    location: "Frederico Westphalen - RS"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Programa Aprendizagem para o 3º Milênio (A3M): Identificando o processo de Mediação Pedagógica em Espaços Integrados de Ensino e Aprendizagem"
+    authors: ["NOGUEIRA, T. J. A.", "MELO, L. V. S. E.", "FREITAS, S. A. A.", "LEITE, L. L.", "MACEDO, H."]
+    event: "XV Congresso Brasileiro de Ensino Superior a Distância"
+    location: "Natal"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Evaluating the use of gamification in mathematics learning in primary school children"
+    authors: ["CUNHA, G. C. A.", "BARRAQUI, L. P.", "FREITAS, S. A. A."]
+    event: "48th Annual Frontiers in Education (FIE)"
+    location: "San Francisco"
+    year: 2018
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "The relationship between personality and value-based decision-making"
+    authors: ["Mendes, Fabiana Freitas"]
+    event: "the 40th International Conference"
+    location: "Gothenburg"
+    year: 2018
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "Team Maturity in Software Engineering Teams: a Work in Progress"
+    authors: ["Pereira, D.V.", "MARSICANO, G. C.", "SILVA, F. Q. B.", "Ribeiro, D.M."]
+    event: "2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)"
+    location: "Buenos Aires"
+    year: 2017
+    keywords: ["george_marsicano"]
+
+  - type: "conference"
+    title: "Team Maturity in Software Engineering Teams"
+    authors: ["MARSICANO, G. C.", "Pereira, D.V.", "SILVA, F. Q. B.", "França, C."]
+    event: "11th International Symposium on Empirical Software Engineering and Measurement"
+    location: "Toronto"
+    year: 2017
+    keywords: ["george_marsicano"]
+
+  - type: "conference"
+    title: "Evaluation of an Automatic Essay Correction System Used as an Assessment Tool"
+    authors: ["FREITAS, S. A. A.", "CANEDO, E. D.", "FRINHANI, C. L.", "FERNANDES, M. V.", "SILVA, M. C."]
+    event: "19th International Conference on Human-Computer Interaction"
+    location: "Vancouver"
+    year: 2017
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Experience and Innovation Factory: Adaptation of an Experience Factory Model for a Research and Development Laboratory"
+    authors: ["ARAUJO, A. N. L.", "BORGES, K. C. S.", "FREITAS, S. A. A.", "CANEDO, E. D.", "SILVA, W. C. M. P."]
+    event: "Americas Conference on Information Systems 2017"
+    location: "Boston - EUA"
+    year: 2017
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Gamification in education: A methodology to identify student's profile"
+    authors: ["FREITAS, S. A. A.", "LACERDA, ARTHUR R. T.", "CALADO, PAULO M. R. O.", "LIMA, THIAGO S.", "DIAS CANEDO, EDNA"]
+    event: "2017 IEEE Frontiers in Education Conference (FIE)"
+    location: "Indianapolis"
+    year: 2017
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Analysis of the teaching-learning methodology adopted in the introduction to computer science classes"
+    authors: ["DIAS CANEDO, EDNA", "SANTOS, GIOVANNI ALMEIDA", "FREITAS, S. A. A."]
+    event: "2017 IEEE Frontiers in Education Conference (FIE)"
+    location: "Indianapolis"
+    year: 2017
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Programa Aprendizagem para o Terceiro Milênio (A3M): política de valorização e promoção de ações educacionais inovadoras na Universidade de Brasília"
+    authors: ["MELO, L. V. S. E.", "FREITAS, S. A. A.", "NOGUEIRA, T. J.", "ANDRADE, M.", "LOURENCO, V."]
+    event: "XIV Congresso Brasileiro de Ensino Superior a Distância"
+    location: "Rio Grande - RS"
+    year: 2017
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Uso da gamificação nos anos iniciais do ensino fundamental brasileiro"
+    authors: ["CUNHA, GEOVÂNIA", "BARRAQUI, LUCIANA", "FREITAS, S. A. A."]
+    event: "XXVIII Simpósio Brasileiro de Informática na Educação SBIE"
+    location: "Recife"
+    year: 2017
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Supportive metrics to estimate the effort to develop Business Intelligence system"
+    authors: ["Endo, L", "MENDES, F. F.", "Canedo, E. D."]
+    event: "11th Iberian Conference on Information Systems and Technologies (CISTI)"
+    location: "Gran Canaria, Spain"
+    year: 2016
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "Smart Quizzes in the Engineering Education"
+    authors: ["FREITAS, S. A. A.", "SILVA, RITA DE CASSIA", "LUCENA, TIAGO FRANKLIN R.", "RIBEIRO, EDUARDO DO N.", "LIMA, VICTOR COTRIM DE", "SILVA, RODRIGO M. S. DA"]
+    event: "2016 49th Hawaii International Conference on System Sciences (HICSS)"
+    location: "Koloa"
+    year: 2016
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Using an Active Learning Environment to Increase Students' Engagement"
+    authors: ["FREITAS, S. A. A.", "SILVA, WANDER C. M. P.", "MARSICANO, GEORGE"]
+    event: "2016 IEEE 29th International Conference on Software Engineering Education and Training (CSEET)"
+    location: "Dallas"
+    year: 2016
+    keywords: ["sergio_freitas", "george_marsicano"]
+
+  - type: "conference"
+    title: "An Integrated Approach to the Requirements Engineering and Process Modelling Teaching"
+    authors: ["MARSICANO, GEORGE", "MENDES, FABIANA FREITAS", "FERNANDES, MAURICIO VIDOTTI", "FREITAS, S. A. A."]
+    event: "2016 IEEE 29th International Conference on Software Engineering Education and Training (CSEET)"
+    location: "Dallas"
+    year: 2016
+    keywords: ["george_marsicano", "fabiana_mendes", "sergio_freitas"]
+
+  - type: "conference"
+    title: "A tool for students' grouping in classroom"
+    authors: ["FREITAS, S. A. A.", "SILVA, RITA C.", "CANEDO, EDNA D.", "LUCENA, TIAGO FRANKLIN R."]
+    event: "2016 IEEE Frontiers in Education Conference (FIE)"
+    location: "Eire"
+    year: 2016
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "An automatic essay correction for an active learning environment"
+    authors: ["FRINHANI, CRISTOVAO LIMA", "FREITAS, S. A. A.", "FERNANDES, MAURICIO VIDOTTI", "DIAS CANEDO, EDNA"]
+    event: "2016 IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA)"
+    location: "Agadir"
+    year: 2016
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Metodologia para avaliação da gamificação em jogos"
+    authors: ["NAYARA, BRUNA", "CRUZ, LUDIMILA DA BELA", "FREITAS, S. A. A."]
+    event: "XXVII Simpósio Brasileiro de Informática na Educação"
+    location: "Uberlandia"
+    year: 2016
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Gamificação e avaliação do engajamento dos estudantes em uma disciplina técnica de curso de graduação"
+    authors: ["FREITAS, S. A. A.", "LIMA, THIAGO", "CANEDO, EDNA", "COSTA, RICARDO LOPES"]
+    event: "XXVII Simpósio Brasileiro de Informática na Educação"
+    location: "Uberlandia"
+    year: 2016
+    keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Um estudo sobre o perfil das equipes de desenvolvimento de softwares educacionais"
+    authors: ["RODRIGUES, LEANDRO VELOSO", "FREITAS, S. A. A.", "MENDES, FABIANA"]
+    event: "XXVII Simpósio Brasileiro de Informática na Educação"
+    location: "Uberlandia"
+    year: 2016
+    keywords: ["sergio_freitas", "fabiana_mendes"]
+
+  - type: "conference"
+    title: "Proposed Data Model for a Historical Base Tool"
+    authors: ["VALENCA, K. S.", "CANEDO, E. D.", "KOSLOSKI, R. A. D.", "FREITAS, S. A. A."]
+    event: "11th International Conference on Software Engineering Advances (ICSEA)"
+    location: "Rome"
+    year: 2016
+    keywords: ["sergio_freitas"]
+
+  - type: "article"
+    title: "A concept-environment for computer-based augmentative and alternative communication founded on a systematic review"
+    authors: ["LOJA, LUIZ FERNANDO BATISTA", "GOMIDE, RENATO DE SOUSA", "Mendes, Fabiana Freitas", "TEIXEIRA, RICARDO ANTONIO GONÇALVES", "LEMOS, RODRIGO PINTO", "FLÔRES, EDNA LÚCIA"]
+    journal: "Research on Biomedical Engineering"
+    volume: "31"
+    pages: "257-272"
+    year: 2015
+    keywords: ["fabiana_mendes"]
+
+  - type: "article"
+    title: "A Multi-agent Architecture to Support Ubiquitous Applications in Smart Environments"
+    authors: ["MACIEL, C.", "SOUZA, P. C.", "VITERBO, J.", "MENDES, F. F.", "SEGHROUCHNI, A."]
+    journal: "COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE (PRINT)"
+    volume: "498"
+    pages: "106"
+    year: 2015
+    keywords: ["fabiana_mendes"]
+
+  - type: "book"
+    title: "Sinfonia: orquestrando processos de negócio"
+    authors: ["LOJA, L. F. B.", "MENDES, F. F.", "OLIVEIRA, J. L."]
+    publisher: "Novas Edições Acadêmicas"
+    volume: "1"
+    pages: "124"
+    year: 2015
+    keywords: ["fabiana_mendes"]
+
+  - type: "book chapter"
+    title: "A Multi-agent Architecture to Support Ubiquitous Applications in Smart Environments"
+    authors: ["MACIEL, CRISTIANO", "de Souza, Patricia Cristiane", "Viterbo, José", "Mendes, Fabiana Freitas", "El Fallah Seghrouchni, Amal"]
+    book_title: "Communications in Computer and Information Science"
+    publisher: "Springer Berlin Heidelberg"
+    volume: "498"
+    pages: "106-116"
+    year: 2015
+    keywords: ["fabiana_mendes"]
+
+  - type: "conference"
+    title: "Modeling and Verification for Dependability in Software Product Lines"
+    authors: ["RODRIGUES, G. N.", "ALVES, V. R.", "NUNES, V.", "LANNA, André Luiz Peron Martins", "CORDY, M.", "SCHOBBENS, P.", "SHARIFLOO, A. M.", "LEGAY, A."]
+    event: "International Symposium on High Assurance Systems Engineering (HASE)"
+    location: "Daytona Beach"
+    year: 2015
+    keywords: ["andre_lanna"]
+
+  - type: "conference"
+    title: "Deployment of Collaborative Softwares as a Service in a Private Cloud to a Software Factory"
+    authors: ["VERGARA, G. F.", "CANEDO, E. D.", "FREITAS, S. A. A."]
+    event: "15th Computational Science and Its Applications (ICCSA)"
+    location: "Banff - Canada"
+    year: 2015
+    keywords: ["sergio_freitas"]
+

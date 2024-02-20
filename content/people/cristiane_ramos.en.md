@@ -22,7 +22,7 @@ tags:
 - Master's in Knowledge Management and Information Technology - Catholic University of Brasília (2002-2004).
 - Bachelor's in Computer Science - Catholic University of Brasília (1993-1996).
 ## Research Lines
-{{< postsByCategories caput="" categories="knowledge_areas,cristiane_ramos" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,cristiane_ramos" >}}
 ## Additional Training
 - Various complementary training, including Scientific Methodology, Content Development for Distance Education, Neuroscience in Teaching, among others.
 ## Professional Experience and Teaching
@@ -30,7 +30,7 @@ tags:
 - Previous experience: Professor at the Integrated Faculties of UniCESP (2005-2007), teaching Quality Management.
 
 ## Research Projects
-{{< postsByCategories categories="project,cristiane_ramos" >}}
+{{< postsByCategoriesTags categories="project,cristiane_ramos" >}}
 - Automation of Public Services in the context of Service Transformation: Research and development project in partnership between UnB and the Ministry of Planning (2017-2020).
 - Software Metrics to support Management in Companies (2002-2005).
 ## Guidance
@@ -62,3 +62,6 @@ tags:
 - Professional Address: University of Brasília, UnB Gama Campus, Brasília - DF, Brazil.
 - Lattes: [CV Lattes](http://lattes.cnpq.br/9950213660160161)
 - Orcid ID: [Orcid Profile](https://orcid.org/0000-0002-6235-5590)
+
+## Publications
+{{< publications year="" keywords="cristiane_ramos" notags="" >}}

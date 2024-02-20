@@ -32,14 +32,14 @@ tags:
 - Graduação em Engenharia Elétrica (ênfase eletrônica) - Universidade Federal de Uberlândia (UFU), Brasil (1985-1990)​​.
 
 ## Áreas de Pesquisa
-{{< postsByCategories caput="" categories="knowledge_areas,sergio_freitas" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,sergio_freitas" >}}
 
 ## Contribuições e Reconhecimentos
 - Prêmios: Múltiplas vezes homenageado e patrono de turmas na UnB e UFES​​.
 - Publicações: Autor e coautor de diversos artigos científicos e livros, com reconhecimento em plataformas como Web of Science e SCOPUS​​.
 
 ## Projetos Atuais
-{{< postsByCategories categories="project,sergio_freitas" >}}
+{{< postsByCategoriesTags categories="project,sergio_freitas" >}}
 
 ## Orientações
 ### Atuais
@@ -63,3 +63,7 @@ tags:
 - Email: [sergiofreitas@unb.br](mailto:sergiofreitas@unb.br)
 - Lattes: {{< link-interno "http://lattes.cnpq.br/0395549254894676" "CV Lattes" >}}
 - Orcid ID: {{< link-interno "https://orcid.org/0000-0003-3996-4985" "Orcid Profile​" >}}
+
+
+## Publicações
+{{< publications year="" keywords="sergio_freitas" notags="" >}}

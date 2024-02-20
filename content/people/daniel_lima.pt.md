@@ -23,9 +23,9 @@ tags:
 ## Experiência Profissional e Docência
 - Professor Adjunto na Universidade de Brasília: Desde 2022, ministrando disciplinas como Fundamentos de Sistemas Operacionais e Algoritmos e Programação de Computadores​​.
 ## Linhas de pesquisa
-{{< postsByCategories caput="" categories="knowledge_areas,daniel_sundfeld" >}}
+{{< postsByCategoriesTags caput="" categories="knowledge_areas,daniel_sundfeld" >}}
 ## Projetos de Pesquisa
-{{< postsByCategories categories="project,daniel_sundfeld" >}}
+{{< postsByCategoriesTags categories="project,daniel_sundfeld" >}}
 - [Laguna - Infraestrutura Informacional Aberta e Lago de Dados](https://www.cedis.unb.br/projetos/laguna-cloud) (2022-Atual).
 - Cloud IoT e Sistemas Distribuídos (2020-2022).
 - BioCloud - A Framework for the Execution of Biotechnology Applications in Several Platforms of the Amazon AWS Cloud (2020-2022)​​.
@@ -56,3 +56,7 @@ tags:
 - Endereço Profissional: Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.
 - Lattes: [CV Lattes](http://lattes.cnpq.br/2619423058109475)
 - Orcid iD: [Orcid Profile](https://orcid.org/0000-0002-5147-3698)
+
+## Publicações
+{{< publications year="" keywords="daniel_sundfeld" notags="" >}}
+
