@@ -18,7 +18,7 @@ tags:
 - machine_learning
 ---
 ## Academic and Professional Profile
-- Current Position: Undergraduate in Software Engineering, University of Brasília. Engaged in scientific initiation in a research project.
+- Current Position: Undergraduate in Software Engineering, University of Brasília. Engaged in scientific initiation in a research project. 
 
 ## Research Interests
 - Machine learning.
