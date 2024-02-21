@@ -274,6 +274,15 @@ items:
     keywords: ["daniel_sundfeld"]
 
   - type: "article"
+    title: "Instrumento de ação pública: edital de inclusão digital para retomada das atividades acadêmicas dos estudantes da Universidade de Brasília, no contexto da pandemia da COVID-19"
+    authors: ["MARIANI, C. B.", "RAMOS, J. C. C.", "RODRIGUES, L. S.", "KOSLOSKI, R. A. D.", "FECHINE, V. M. R."]
+    journal: "REVISTA DO CEAM"
+    volume: "7"
+    pages: "56-78"
+    year: 2021
+    keywords: ["ricardo_ajax"]
+
+  - type: "article"
     title: "The Teamwork Process Antecedents (TPA) Questionnaire: Developing and Validating a Comprehensive Measure for Assessing Antecedents of Teamwork Process Quality"
     authors: ["MARSICANO, G. C.", "DA SILVA, FABIO Q. B.", "SEAMAN, C. B.", "ADAID-CASTRO, B. G."]
     journal: "EMPIRICAL SOFTWARE ENGINEERING (DORDRECHT. ONLINE)"
@@ -373,6 +382,25 @@ items:
     year: 2019
     url: "https://www.researchgate.net/publication/344419894_FORMAS_DE_INGRESSO_EM_PERSPECTIVA_COMPARADA_POR_QUE_O_SISU_AUMENTA_A_EVASAO_O_CASO_DA_UNB"
     keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Aprendizagem baseada em projetos aplicada em uma disciplina de integração de Engenharias: desafios e benefícios"
+    authors: ["KOSLOSKI, RICARDO AJAX DIAS", "RAMOS, CRISTIANE SOARES", "CANEDO, E. D. ", "GOULART, H. B."]
+    event: "Simpósio Brasileiro de Informática na Educação (SBIE)"
+    location: "Brasilia"
+    year: 2019
+    doi: "10.5753/cbie.sbie.2019.89"
+    keywords: ["ricardo_ajax","cristiane_ramos"]
+
+  - type: "book"
+    title: "Ensino SUPERIOR com metodologias ativas: na prática, como se faz"
+    authors: ["CALAZANS, Angelica Toffano Seidel", "MASSON, E.", "SOUZA, M.", "BRITO, I.", "PALDES, R.", "KOSLOSKI, RICARDO AJAX DIAS", "RAMOS, C. S.", "GUIMARAES, F."]
+    publisher: "Clube dos autores"
+    pages: "203"
+    year: 2019
+    volume: "1"
+    edition: "1"
+    keywords: ["cristiane_ramos","ricardo_ajax"]
 
   - type: "book"
     title: "Processo de Aprendizagem Conversacional para a Elicitação de Requisitos: Uma nova possibilidade para a construção de relações entre engenheiro de software e seus stakeholders"
@@ -563,6 +591,24 @@ items:
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
+    title: "TBL as an active learning-teaching methodology for software engineering courses"
+    authors: ["RAMOS, CRISTIANE SOARES", "KOSLOSKI, Ricardo Ajax Dias", "VENSON, ELAINE", "DA COSTA FIGUEIREDO, REJANE M.", "DEON, VICTOR HUGO A."]
+    event: "the XXXII Brazilian Symposium"
+    location: "Sao Carlos"
+    year: 2018
+    proceedings: "Proceedings of the XXXII Brazilian Symposium on Software Engineering - SBES '18"
+    pages: "289"
+    keywords: ["cristiane_ramos","ricardo_ajax"]
+
+  - type: "conference"
+    title: "Requisitos de Qualidade de Usabilidade: análise da utilização em sistemas de uma instituição financeira"
+    authors: ["CALAZANS, ANGÉLICA", "MASSON, ELOISA", "PALDÊS, ROBERTO", "GUIMARÃES, FERNANDO", "RESENDE, KIANE", "KOSLOSKI, RICARDO"]
+    event: "Workshop em Engenharia de Requisitos 2018"
+    proceedings: "Anais do WER18 - Workshop em Engenharia de Requisitos"
+    year: 2018
+    keywords: ["ricardo_ajax"]
+
+  - type: "conference"
     title: "Team Maturity in Software Engineering Teams: a Work in Progress"
     authors: ["Pereira, D.V.", "MARSICANO, G. C.", "SILVA, F. Q. B.", "Ribeiro, D.M."]
     event: "2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)"
@@ -724,6 +770,15 @@ items:
     keywords: ["sergio_freitas", "ricardo_ajax"]
 
   - type: "article"
+    title: "Proposta de modelo de medições para contratação do gerenciamento de processo de negócio (Business Process Management - BPM)"
+    authors: ["CALAZANS, ANGELICA TOFFANO SEIDEL", "KOSLOSKI, Ricardo Ajax Dias", "FERNANDO, G."]
+    journal: "Revista de Gestão da Tecnologia e Sistemas de Informação"
+    volume: "13"
+    pages: "275-300"
+    year: 2016
+    keywords: ["ricardo_ajax"]
+
+  - type: "article"
     title: "A concept-environment for computer-based augmentative and alternative communication founded on a systematic review"
     authors: ["LOJA, LUIZ FERNANDO BATISTA", "GOMIDE, RENATO DE SOUSA", "Mendes, Fabiana Freitas", "TEIXEIRA, RICARDO ANTONIO GONÇALVES", "LEMOS, RODRIGO PINTO", "FLÔRES, EDNA LÚCIA"]
     journal: "Research on Biomedical Engineering"
@@ -781,3 +836,23 @@ items:
     year: 2015
     doi: "10.1007/978-3-319-21404-7_24"
     keywords: ["sergio_freitas"]
+
+  - type: "conference"
+    title: "Critical issues in SPI Programs: A Holistic View"
+    authors: ["RAMOS, C. S.", "OLIVEIRA, K. M.", "ROCHA, A. R. C."]
+    event: "The First International Conference on Advances and Trends in Software Engineering"
+    location: "Barcelona"
+    year: 2015
+    pages: "60-66"
+    proceedings: "SOFTENG 2015 - The First International Conference on Advances and Trends in Software Engineering"
+    keywords: ["cristiane_ramos"]
+
+  - type: "conference"
+    title: "Planejamento de Programa de Melhoria Abordagem Multimodelo"
+    authors: ["RAMOS, C. S.", "OLIVEIRA, K. M.", "ROCHA, A. R. C."]
+    event: "Simpósio Brasileiro de Qualidade de Software"
+    location: "Manaus"
+    year: 2015
+    pages: "79-93"
+    proceedings: "XIV Simpósio Brasileiro de Qualidade de Software"
+    keywords: ["cristiane_ramos"]
