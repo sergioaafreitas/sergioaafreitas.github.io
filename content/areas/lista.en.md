@@ -13,7 +13,7 @@ tags: [  ]
 ---
 ## Software Development and Engineering
 - [Software Architecture](/en/areas/software_architecture)
-- [Software Requirements](/en/areas/software_requirements)
+- [Requirements Engineering](/en/areas/software_requirements)
 - [Verification, Validation and Testing](/en/areas/verival)
 - [Software Product Line Engineering](/en/areas/software_products)
 - [Green Software Development](/en/areas/green_software)

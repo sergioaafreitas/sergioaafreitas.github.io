@@ -1,11 +1,11 @@
 ---
 author: CEDIS
-title: "Software Requirements"
+title: "Requirements Engineering"
 date: 2024-02-14T00:43:11-03:00
 weight: 5
 language: en
 featured_image: ../assets/images/featured/software_requirements.png
-summary: The field of Software Requirements is fundamental in software engineering, focusing on defining and managing the needs and functionalities that a software system must possess. 
+summary: Requirements engineering (RE) is an interdisciplinary area of Software Engineering aimed at bridging the gap between the acquirer's and the supplier's or developer's domains.
 authorimage: ../assets/images/global/author.webp
 categories:
 - knowledge_areas
@@ -14,6 +14,8 @@ tags:
 - software_requirements
 ---
 ## Introduction
-The area of Software Requirements is pivotal in software engineering as it deals with defining and managing the needs and functionalities that a software system must have. This discipline is crucial for ensuring that the developed systems meet the end users' and project stakeholders' expectations and needs. The process involves identifying, documenting, verifying, and maintaining requirements throughout the software lifecycle.
+Requirements engineering (RE) is an interdisciplinary area of Software Engineering aimed at bridging the gap between the acquirer's and the supplier's or developer's domains, to establish and maintain the requirements to be met by the system, software product, or service of interest. Its process involves elicitation and discovery, analysis and consensus, statement, representation, verification and validation, and organization and updating of requirements.
 
-At CEDIS, Software Requirements is a research, development, and application area with a strong focus on improving processes and techniques for collecting, analyzing, and managing requirements. This research line is coordinated by Prof. George Marsicano and features a team of dedicated researchers. They explore topics such as requirements elicitation, modeling, specification, validation, and requirements management. The goal is to develop more efficient and accurate methods to ensure that software systems align perfectly with business needs and user expectations, thereby contributing to the creation of high-quality and relevant software products in the market.
+At CEDIS, Requirements Engineering is currently a research, development, and application area with a focus on plan-driven, agile, and hybrid software development approaches, in the processes and human relations to be built during the execution of RE, and in the use of artificial intelligence tools.
+
+This research line is coordinated by Prof. George Marsicano and has a team of dedicated researchers. The goal is to develop, identify, and establish processes, methods, and tools that make the RE process more efficient and innovative, both from a technical and human standpoint.

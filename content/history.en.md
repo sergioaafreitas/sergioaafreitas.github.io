@@ -6,4 +6,4 @@ language: en
 ---
 **2013** - Creation of the Software Factory Laboratory (lab FSw)
 
-**2018** - New researchers join, and following the consensus among all members, the laboratory is renamed to the Center for Studies, Development, and Innovation in Software - CEDIS.
+**2019** - New researchers join, and following the consensus among all members, the laboratory is renamed to the Center for Studies, Development, and Innovation in Software - CEDIS.

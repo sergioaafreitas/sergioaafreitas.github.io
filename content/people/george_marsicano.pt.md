@@ -25,7 +25,7 @@ tags:
 {{< postsByCategoriesTags caput="" categories="knowledge_areas,george_marsicano" >}}
 ## Qualificações Adicionais
 - Diplomado Internacional em Coaching em Contextos Organizacionais pela Universidad de Londres, México (2013-2014).
-- Coach certificado pela Escola Internacional de Coach - The Newfield Network​​.
+- Coach certificado pela Escola Internacional de Coach - The Newfield Network​, 2006​.
 ## Atuação Profissional
 - Professor na UnB: Desde 2011, contribuindo para o ensino de graduação e pós-graduação em Engenharia de Software.
 - Linhas de Pesquisa: Educação na Engenharia de Software​​.

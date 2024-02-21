@@ -25,7 +25,7 @@ tags:
 {{< postsByCategoriesTags caput="" categories="knowledge_areas,george_marsicano" >}}
 ## Additional Qualifications
 - International Diploma in Coaching in Organizational Contexts by the University of London, Mexico (2013-2014).
-- Certified Coach by the International School of Coaching - The Newfield Network.
+- Certified Coach by the International School of Coaching - The Newfield Network, 2006.
 ## Professional Experience
 - Professor at UnB: Since 2011, contributing to undergraduate and graduate teaching in Software Engineering.
 - Research Lines: Software Engineering Education.

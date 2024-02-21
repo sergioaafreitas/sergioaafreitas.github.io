@@ -13,7 +13,7 @@ tags: [  ]
 ---
 ## Desenvolvimento e Engenharia de Software
 - [Arquitetura de Software](/areas/software_architecture)
-- [Requisitos de Software](/areas/software_requirements)
+- [Engenharia de Requisitos](/areas/software_requirements)
 - [Verificação, Validação e Testes](/areas/verival)
 - [Engenharia de Linhas de Produto de Software](/areas/software_products)
 - [Green Software Development](/areas/green_software)

@@ -6,4 +6,4 @@ language: pt
 ---
 **2013** - Criação do Laboratório Fábrica de Software (lab FSw)
 
-**2018** - Novos pesquisadores e o nome o laboratório, após entendimento de todos os membros, é renomeado para Centro de Estudos, Desenvolvimento e Inovação em Software - CEDIS.
+**2019** - Novos pesquisadores e o nome o laboratório, após entendimento de todos os membros, é renomeado para Centro de Estudos, Desenvolvimento e Inovação em Software - CEDIS.
