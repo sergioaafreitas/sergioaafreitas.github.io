@@ -26,7 +26,6 @@ tags:
 {{< postsByCategoriesTags caput="" categories="knowledge_areas,daniel_sundfeld" >}}
 ## Research Projects
 {{< postsByCategoriesTags categories="project,daniel_sundfeld" >}}
-- [Laguna - Open Informational Infrastructure and Data Lake](https://www.cedis.unb.br/projetos/laguna-cloud) (2022-Present).
 - Cloud IoT and Distributed Systems (2020-2022).
 - BioCloud - A Framework for the Execution of Biotechnology Applications on Several Platforms of the Amazon AWS Cloud (2020-2022).
 ## Guidance
