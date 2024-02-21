@@ -4,7 +4,7 @@ title: "André Corrêa da Silva"
 date: 2024-02-17T00:50:20-03:00
 weight: 44
 language: pt
-#featured_image: ../assets/images/featured/Andre_lanna.jpg
+featured_image: ../assets/images/featured/andre_silva.png
 summary: Graduando em Engenharia de Software, Universidade de Brasília 
 authorimage: ../assets/images/global/author.webp
 categories: 
@@ -24,7 +24,7 @@ tags:
 - Aprendizado de máquina.
 
 ## Projetos de Pesquisa
-- [Projeto DFCris](/projects/dfcris/)
+- {{< link-interno "/projects/dfcris/" "Projeto DFCris" >}}
 
 ## Contato
 - Endereço Profissional: Universidade de Brasília, Campus UnB Gama, Brasília - DF, Brasil.
