@@ -45,6 +45,7 @@ items:
     volume: "9"
     pages: "e17572"
     year: 2023
+    doi: "10.1016/j.heliyon.2023.e17572"
     keywords: ["healthcare", "fabiana_mendes"]
 
   - type: "conference"
@@ -53,6 +54,7 @@ items:
     event: "2023 IEEE/ACM 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)"
     location: "Melbourne"
     year: 2023
+    doi: "10.1109/CHASE58964.2023.00023"
     keywords: ["esw", "fabiana_mendes"]
     pages: "138"
 
@@ -62,6 +64,7 @@ items:
     event: "SBES 2023: XXXVII Brazilian Symposium on Software Engineering"
     location: "Campo Grande Brazil"
     year: 2023
+    doi: "10.1145/3613372.3613394"
     keywords: ["esw", "fabiana_mendes"]
     pages: "464"
 
@@ -71,6 +74,7 @@ items:
     event: "Workshop on Requirements Engineering"
     location: "Porto Alegre"
     year: 2023
+    doi: "10.29327/1298356.26-11"
     keywords: ["software_requirements", "george_marsicano"]
     
   - type: "conference"
@@ -79,6 +83,7 @@ items:
     event: "25th International Conference on Enterprise Information Systems"
     location: "Prague"
     year: 2023
+    doi: "10.5220/0011826600003467"
     keywords: ["digital_transformation", "george_marsicano", "cristiane_ramos"]
     pages: "490"
 
@@ -88,16 +93,18 @@ items:
     event: "Escola Regional de Alto Desempenho do Centro-Oeste"
     location: "Brasil"
     year: 2023
+    doi: "10.5753/eradco.2023.234451"
     keywords: ["hpc", "daniel_sundfeld"]
     pages: "29-31"
 
   - type: "article"
-    title: "Defining Digital Legacy Management Systems' Requirements."
+    title: "Defining Digital Legacy Management Systems' Requirements"
     authors: ["MACIEL, C.", "MENDES, F. F.", "PEREIRA, V. C.", "YAMAUCHI, E. A."]
     journal: "LECTURE NOTES IN BUSINESS INFORMATION PROCESSING"
     volume: "LNBIP 455"
     pages: "256-279"
     year: 2022
+    doi: "10.1007/978-3-031-08965-7_13"
     keywords: ["fabiana_mendes"]
 
   - type: "article"
@@ -107,6 +114,7 @@ items:
     volume: "1"
     pages: "1"
     year: 2022
+    doi: "10.37190/e-Inf230106"
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
@@ -135,6 +143,7 @@ items:
     event: "19th CONTECSI - International Conference on Information Systems and Technology Management"
     location: "São Paulo"
     year: 2022
+    doi: "10.5748/19CONTECSI/PSE/GOV/7034"
     keywords: ["george_marsicano"]
 
   - type: "conference"
@@ -143,6 +152,7 @@ items:
     event: "19th CONTECSI - International Conference on Information Systems and Technology Management"
     location: "São Paulo"
     year: 2022
+    doi: "10.5748/19CONTECSI/PSE/ESD/7019"
     keywords: ["george_marsicano"]
 
   - type: "conference"
@@ -152,6 +162,7 @@ items:
     location: "Melbourne"
     year: 2022
     pages: "1"
+    doi: "10.1109/ISPA-BDCloud-SocialCom-SustainCom57177.2022.00039"
     keywords: ["fabiana_mendes"]
 
   - type: "workshop"
@@ -160,6 +171,7 @@ items:
     event: "Wokshop de Iniciação Científica - Simpósio Brasileiro de Sistemas de Informação"
     location: "Curitiba-PR"
     year: 2022
+    doi: "10.5753/sbsi_estendido.2022.222493"
     pages: "13-16"
     keywords: ["fabiana_mendes"]
 
@@ -170,6 +182,7 @@ items:
     location: "Brasil"
     year: 2022
     pages: "60"
+    doi: "10.5753/ihc_estendido.2022.224175"
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
@@ -178,6 +191,7 @@ items:
     event: "Congresso Brasileiro de Engenharia de Software - CBSoft"
     location: "Curitiba"
     year: 2022
+    doi: "10.5753/cbsoft_estendido.2022.226260"
     keywords: ["george_marsicano"]
 
   - type: "workshop"
@@ -187,6 +201,7 @@ items:
     location: "Brasil"
     year: 2022
     pages: "189-192"
+    doi: "10.5753/erigo.2022.227676"
     keywords: ["daniel_sundfeld"]
 
   - type: "article"
@@ -196,6 +211,7 @@ items:
     volume: "136"
     pages: "106586"
     year: 2021
+    doi: "10.1016/j.infsof.2021.106586"
     keywords: ["fabiana_mendes"]
 
   - type: "article"
@@ -205,6 +221,7 @@ items:
     volume: "19"
     pages: "207-216"
     year: 2021
+    doi: "10.22456/1679-1916.118428"
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
@@ -213,6 +230,7 @@ items:
     event: "23rd International Conference on Enterprise Information Systems"
     year: 2021
     pages: "41"
+    doi: "10.5220/0010449800410053"
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
@@ -222,6 +240,7 @@ items:
     location: "Joinville Brazil"
     year: 2021
     pages: "378"
+    doi: "Breaking one barrier at a time: how women developers cope in a men-dominated industry"
     keywords: ["fabiana_mendes"]
 
   - type: "article"
@@ -251,16 +270,8 @@ items:
     event: "Escola Regional de Alto Desempenho de São Paulo"
     year: 2021
     pages: "25-28"
+    doi: "10.5753/eradsp.2021.16697"
     keywords: ["daniel_sundfeld"]
-
-  - type: "article"
-    title: "Aspectos de qualidade em jogos sérios digitais"
-    authors: ["A. SOUSA E SILVA, MATEUS", "BARROS DE SALES, ANDRÉ", "FREITAS MENDES, FABIANA"]
-    journal: "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO"
-    volume: "19"
-    pages: "207-216"
-    year: 2021
-    keywords: ["fabiana_mendes"]
 
   - type: "article"
     title: "The Teamwork Process Antecedents (TPA) Questionnaire: Developing and Validating a Comprehensive Measure for Assessing Antecedents of Teamwork Process Quality"
@@ -269,6 +280,7 @@ items:
     volume: "10664"
     pages: "1-45"
     year: 2020
+    doi: "10.1007/s10664-020-09860-5"
     keywords: ["george_marsicano"]
 
   - type: "conference"
@@ -277,6 +289,7 @@ items:
     event: "Empirical Software Engineering and Measurement (ESEM)"
     location: "Bari"
     year: 2020
+    doi: "10.1145/3382494.3410632"
     keywords: ["george_marsicano"]
 
   - type: "conference"
@@ -368,6 +381,7 @@ items:
     volume: "200"
     pages: "229"
     year: 2018
+    isbn: "978-6202194716"
     keywords: ["george_marsicano"]
 
   - type: "conference"
@@ -376,6 +390,7 @@ items:
     event: "the 11th International Workshop"
     location: "Gothenburg"
     year: 2018
+    doi: "10.1145/3195836.3195851"
     proceedings: "Proceedings of the 11th International Workshop on Cooperative and Human Aspects of Software Engineering - CHASE '18"
     keywords: ["george_marsicano"]
 
@@ -386,6 +401,7 @@ items:
     volume: "152"
     pages: "116-160"
     year: 2018
+    doi: "10.1016/j.scico.2017.10.013"
     keywords: ["andre_lanna"]
 
   - type: "article"
@@ -395,6 +411,7 @@ items:
     volume: "94"
     pages: "59-81"
     year: 2018
+    doi: "10.1016/j.infsof.2017.10.001"
     keywords: ["andre_lanna"]
 
   - type: "article"
@@ -413,6 +430,7 @@ items:
     event: "48th Annual Frontiers in Education (FIE) Conference (FIE 2018)"
     location: "San Jose, CA, USA"
     year: 2018
+    doi: "10.1109/FIE.2018.8659171"
     keywords: [ "fabiana_mendes"]
 
   - type: "article"
@@ -541,6 +559,7 @@ items:
     event: "the 40th International Conference"
     location: "Gothenburg"
     year: 2018
+    url: "https://ieeexplore.ieee.org/document/8449626"
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
@@ -549,6 +568,7 @@ items:
     event: "2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)"
     location: "Buenos Aires"
     year: 2017
+    doi: "10.1109/CHASE.2017.2"
     keywords: ["george_marsicano"]
 
   - type: "conference"
@@ -557,6 +577,7 @@ items:
     event: "11th International Symposium on Empirical Software Engineering and Measurement"
     location: "Toronto"
     year: 2017
+    doi: "10.1109/ESEM.2017.36"
     keywords: ["george_marsicano"]
 
   - type: "conference"
@@ -618,6 +639,7 @@ items:
     event: "11th Iberian Conference on Information Systems and Technologies (CISTI)"
     location: "Gran Canaria, Spain"
     year: 2016
+    doi: "10.1109/CISTI.2016.7521476"
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
@@ -708,6 +730,7 @@ items:
     volume: "31"
     pages: "257-272"
     year: 2015
+    doi: "10.1590/2446-4740.0601"
     keywords: ["fabiana_mendes"]
 
   - type: "article"
@@ -727,6 +750,7 @@ items:
     volume: "1"
     pages: "124"
     year: 2015
+    isbn: "978-3639698558"
     keywords: ["fabiana_mendes"]
 
   - type: "book chapter"
@@ -737,6 +761,7 @@ items:
     volume: "498"
     pages: "106-116"
     year: 2015
+    doi: "10.1007/978-3-662-46241-6_9"
     keywords: ["fabiana_mendes"]
 
   - type: "conference"
@@ -745,6 +770,7 @@ items:
     event: "International Symposium on High Assurance Systems Engineering (HASE)"
     location: "Daytona Beach"
     year: 2015
+    doi: "10.1109/HASE.2015.34"
     keywords: ["andre_lanna"]
 
   - type: "conference"
