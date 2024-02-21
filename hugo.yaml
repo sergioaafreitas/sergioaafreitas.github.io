@@ -149,12 +149,12 @@ languages:
           post: "Processos, técnicas e outros"
           url: "#"
           weight: 30
-        - identifier: prods
-          pre: comments # can be stars, comments or piechart
-          name: Produtos
-          post: "Produtos tecnológicos e outros"
-          url: "#"
-          weight: 40
+#        - identifier: prods
+#          pre: comments # can be stars, comments or piechart
+#          name: Produtos
+#          post: "Produtos tecnológicos e outros"
+#          url: "#"
+#          weight: 40
       footer:
         - identifier: about
           name: About
@@ -315,12 +315,12 @@ languages:
           post: "Processes, techniques, and others"
           url: "#"
           weight: 30
-        - identifier: prods
-          pre: comments # can be stars, comments or piechart
-          name: Products
-          post: "Technological products and others"
-          url: "#"
-          weight: 40
+#        - identifier: prods
+#          pre: comments # can be stars, comments or piechart
+#          name: Products
+#         post: "Technological products and others"
+#          url: "#"
+#          weight: 40
       footer:
         - identifier: about
           name: About
