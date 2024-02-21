@@ -280,6 +280,7 @@ items:
     volume: "7"
     pages: "56-78"
     year: 2021
+    url: "https://periodicos.unb.br/index.php/revistadoceam/article/view/40826"
     keywords: ["ricardo_ajax"]
 
   - type: "article"
@@ -400,6 +401,7 @@ items:
     year: 2019
     volume: "1"
     edition: "1"
+    doi: "10.29327/57070"
     keywords: ["cristiane_ramos","ricardo_ajax"]
 
   - type: "book"
@@ -598,7 +600,8 @@ items:
     year: 2018
     proceedings: "Proceedings of the XXXII Brazilian Symposium on Software Engineering - SBES '18"
     pages: "289"
-    keywords: ["cristiane_ramos","ricardo_ajax"]
+    doi: "10.1145/3266237.3266253"
+    keywords: ["cristiane_ramos","ricardo_ajax","active_learning"]
 
   - type: "conference"
     title: "Requisitos de Qualidade de Usabilidade: análise da utilização em sistemas de uma instituição financeira"
@@ -606,6 +609,7 @@ items:
     event: "Workshop em Engenharia de Requisitos 2018"
     proceedings: "Anais do WER18 - Workshop em Engenharia de Requisitos"
     year: 2018
+    doi: "10.17771/PUCRio.wer.inf2018-43"
     keywords: ["ricardo_ajax"]
 
   - type: "conference"
@@ -776,6 +780,7 @@ items:
     volume: "13"
     pages: "275-300"
     year: 2016
+    doi: "10.4301/S1807-17752016000200007"
     keywords: ["ricardo_ajax"]
 
   - type: "article"
@@ -843,6 +848,7 @@ items:
     event: "The First International Conference on Advances and Trends in Software Engineering"
     location: "Barcelona"
     year: 2015
+    url: "https://www.academia.edu/94988958/Critical_Issues_in_SPI_Programs_A_Holistic_View"
     pages: "60-66"
     proceedings: "SOFTENG 2015 - The First International Conference on Advances and Trends in Software Engineering"
     keywords: ["cristiane_ramos"]
@@ -853,6 +859,7 @@ items:
     event: "Simpósio Brasileiro de Qualidade de Software"
     location: "Manaus"
     year: 2015
+    doi: "10.5753/sbqs.2015.15215"
     pages: "79-93"
     proceedings: "XIV Simpósio Brasileiro de Qualidade de Software"
     keywords: ["cristiane_ramos"]
