@@ -1,9 +1,8 @@
-node_modules/
-resources/
-public/
-.hugo_build.lock
-.vercel
-yarn-error.log
-# Local Netlify folder
+.eslintcache
+.stylelintcache
 .netlify
+.hugo_build.lock
 yarn-error.log
+node_modules
+public
+resources
